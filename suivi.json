@@ -1,11 +1,105 @@
 {
-  "actions": ["AAPL", "MSFT", "NVDA", "AMZN", "GOOGL", "META", "AXP", "BAC", "KO", "PEP", "JNJ", "PG", "MCD"],
-  "elus": ["tous"],
-  "fonds": [
-    {"nom": "Berkshire Hathaway", "cik": "0001067983"},
-    {"nom": "Pershing Square (Bill Ackman)", "cik": "0001336528"},
-    {"nom": "ARK Investment (Cathie Wood)", "cik": "0001697748"},
-    {"nom": "Oaktree (Howard Marks)", "cik": "0000949509"}
+  "actions": [
+    "AAPL",
+    "MSFT",
+    "NVDA",
+    "AMZN",
+    "GOOGL",
+    "META",
+    "AXP",
+    "BAC",
+    "KO",
+    "PEP",
+    "JNJ",
+    "PG",
+    "MCD"
   ],
-  "alertes": []
+  "elus": [
+    "tous"
+  ],
+  "fonds": [
+    {
+      "nom": "Berkshire Hathaway",
+      "cik": "0001067983"
+    },
+    {
+      "nom": "Pershing Square (Bill Ackman)",
+      "cik": "0001336528"
+    },
+    {
+      "nom": "ARK Investment (Cathie Wood)",
+      "cik": "0001697748"
+    },
+    {
+      "nom": "Oaktree (Howard Marks)",
+      "cik": "0000949509"
+    }
+  ],
+  "alertes": [
+    {
+      "action": "AAPL",
+      "type": "bouge_de",
+      "pourcent": 5
+    },
+    {
+      "action": "MSFT",
+      "type": "bouge_de",
+      "pourcent": 5
+    },
+    {
+      "action": "NVDA",
+      "type": "bouge_de",
+      "pourcent": 5
+    },
+    {
+      "action": "AMZN",
+      "type": "bouge_de",
+      "pourcent": 5
+    },
+    {
+      "action": "GOOGL",
+      "type": "bouge_de",
+      "pourcent": 5
+    },
+    {
+      "action": "META",
+      "type": "bouge_de",
+      "pourcent": 5
+    },
+    {
+      "action": "AXP",
+      "type": "bouge_de",
+      "pourcent": 5
+    },
+    {
+      "action": "BAC",
+      "type": "bouge_de",
+      "pourcent": 5
+    },
+    {
+      "action": "KO",
+      "type": "bouge_de",
+      "pourcent": 3
+    },
+    {
+      "action": "PEP",
+      "type": "bouge_de",
+      "pourcent": 3
+    },
+    {
+      "action": "JNJ",
+      "type": "bouge_de",
+      "pourcent": 3
+    },
+    {
+      "action": "PG",
+      "type": "bouge_de",
+      "pourcent": 3
+    },
+    {
+      "action": "MCD",
+      "type": "bouge_de",
+      "pourcent": 3
+    }
+  ]
 }
