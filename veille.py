@@ -26,6 +26,8 @@ ETAT = os.path.join(ICI, "etat")
 OFFLINE = os.environ.get("TRADER_OFFLINE_DIR")
 RAPPORT = os.path.join(ICI, "rapport.md")
 TITRE = os.path.join(ICI, "titre.txt")
+RAPPORTS = os.path.join(ICI, "rapports")
+DONNEES = {}   # le même rapport en données, pour la page Veille de l'app
 
 TAGS = {"earnings": "résultats", "analyst": "analystes", "legal": "justice", "deal": "rachat/fusion",
         "capital": "dividende/rachat d'actions", "people": "dirigeants", "risk": "risque"}
@@ -108,6 +110,10 @@ def actualites(s, notes):
     items = [i for i in data["items"] if i.get("new")]
     if not items:
         return []
+    DONNEES["actualites"] = [{
+        "actions": i["touches"] or [i["ticker"]], "heure": i["time"], "source": "SEC" if i["kind"] == "filing" else i["source"],
+        "titre": i["title"], "lien": i["link"], "etiquettes": [TAGS.get(t, t) for t in i.get("tags", [])],
+        "important": bool(i.get("important"))} for i in items]
     out = ["## 📰 Actualités", ""]
     importants = [i for i in items if i.get("important")]
     if importants:
@@ -172,6 +178,21 @@ def congres(s, notes):
                     r.get("amount") or "", r.get("date") or ""))
     if suivies:
         out += ["**Concernent tes actions**"] + suivies + [""]
+    DONNEES["congres"] = []
+    for f in data["new"]:
+        rep = (reports.get(f["doc_id"]) or {}).get("report") or {}
+        lignes = []
+        for r in rep.get("rows", []):
+            op = OPERATIONS.get(r.get("type_name"), r.get("type_name") or "")
+            if r.get("option"):
+                o = r["option"]
+                op += " (%d %s, prix d'exercice %g $, éch. %s)" % (o["contracts"], o["kind"], o["strike"], o["expires"])
+            lignes.append({"date": r.get("date"), "action": r.get("ticker"), "actif": r.get("asset"), "operation": op,
+                           "titulaire": TITULAIRES.get(r.get("owner_name"), r.get("owner_name")),
+                           "montant": r.get("amount"), "delai": r.get("days_to_disclose"), "retard": bool(r.get("late")),
+                           "suivie": r.get("ticker") in s["actions"]})
+        DONNEES["congres"].append({"elu": f["name"], "circonscription": f["district"], "depot": f["filed"],
+                                   "pdf": f["url"], "lu": bool(rep), "lignes": lignes})
     out.append("%d nouvelle(s) déclaration(s) :" % len(data["new"]))
     out.append("")
     for f in data["new"]:
@@ -241,6 +262,12 @@ def fonds(s, notes):
             continue
         groupes = [("NEW", "Nouvelles lignes"), ("SOLD OUT", "Vendues entièrement"),
                    ("ADDED", "Renforcées"), ("TRIMMED", "Allégées")]
+        DONNEES.setdefault("fonds", []).append({
+            "nom": f.get("nom") or data.get("filer"), "cik": cik, "positions_au": dernier["period"],
+            "depot": dernier["filed"], "groupes": {nom: [
+                {"action": c.get("ticker"), "societe": c["issuer"], "avant": c["shares_before"],
+                 "apres": c["shares_after"], "variation_pct": c.get("change_pct"), "valeur": c["value_after"] or c["value_before"]}
+                for c in d["changes"] if c["status"] == code and not c.get("put_call")] for code, nom in groupes}})
         for code, nom in groupes:
             g = [c for c in d["changes"] if c["status"] == code and not c.get("put_call")][:10]
             if not g:
@@ -327,10 +354,14 @@ def seance():
     notes += ["Alertes : " + e for e in data.get("errors", [])]
     par_id = {r["id"]: r["_fr"] for r in rs}
     lignes = []
+    DONNEES["alertes"] = []
     for ring in data.get("rings", []):
         a = par_id.get(ring["id"])
         prix = data.get("quotes", {}).get(ring.get("symbol"))
-        lignes.append("- 🔔 " + (texte_alerte(a, prix) if a else ring["message"]))
+        texte = texte_alerte(a, prix) if a else ring["message"]
+        lignes.append("- 🔔 " + texte)
+        DONNEES["alertes"].append({"action": (a or {}).get("action", "").upper() or None, "texte": texte,
+                                   "cours": prix, "bourse_ouverte": data["market"]["open"]})
     if not lignes:
         return ("", [], notes)
     m = data["market"]
@@ -344,6 +375,24 @@ def seance():
 
 
 # ---------------------------------------------------------------- sortie
+
+def sauver(mode, titre, notes):
+    """Enregistre le rapport en JSON dans rapports/ pour la page Veille de l'app."""
+    maintenant = dt.datetime.now(dt.timezone.utc).isoformat(timespec="seconds")
+    index = lire(os.path.join(RAPPORTS, "index.json"), {"matin": []})
+    if mode == "matin":
+        jour = dt.date.today().isoformat()
+        ecrire(os.path.join(RAPPORTS, "matin", jour + ".json"),
+               dict(DONNEES, titre=titre, date=jour, genere=maintenant, notes=notes))
+        index["matin"] = [jour] + [d for d in index.get("matin", []) if d != jour]
+        index["matin"] = index["matin"][:90]
+    else:
+        journal = lire(os.path.join(RAPPORTS, "alertes.json"), [])
+        journal = [dict(a, heure=maintenant) for a in DONNEES.get("alertes", [])] + journal
+        ecrire(os.path.join(RAPPORTS, "alertes.json"), journal[:300])
+    index["maj"] = maintenant
+    ecrire(os.path.join(RAPPORTS, "index.json"), index)
+
 
 def main():
     mode = sys.argv[1] if len(sys.argv) > 1 else ""
@@ -363,6 +412,7 @@ def main():
         with open(TITRE, "w", encoding="utf-8") as fh:
             fh.write(titre)
         print("Rapport écrit : " + titre)
+        sauver(mode, titre, notes)
     else:
         print("Rien de nouveau.")
         for n in notes:
