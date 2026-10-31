@@ -1,0 +1,13 @@
+{
+  "actions": ["AAPL", "MSFT", "KO", "JNJ"],
+  "elus": ["Pelosi"],
+  "fonds": [
+    {"nom": "Berkshire Hathaway", "cik": "0001067983"}
+  ],
+  "alertes": [
+    {"type": "ouverture"},
+    {"action": "AAPL", "type": "descend_a", "prix": 250},
+    {"action": "MSFT", "type": "monte_a", "prix": 600},
+    {"action": "KO", "type": "bouge_de", "pourcent": 3}
+  ]
+}

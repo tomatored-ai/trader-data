@@ -1,0 +1,52 @@
+name: Point du matin
+
+on:
+  schedule:
+    - cron: "43 6 * * 1-5"   # lundi-vendredi 6h43 UTC (7h43 à Paris l'hiver, 8h43 l'été)
+  workflow_dispatch: {}       # bouton « Run workflow » pour lancer à la main
+
+permissions:
+  contents: write
+  issues: write
+
+concurrency:
+  group: veille
+  cancel-in-progress: false
+
+jobs:
+  matin:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+
+      - name: Récupérer les skills (version figée)
+        uses: actions/checkout@v4
+        with:
+          repository: tomatored-ai/trader-skill
+          ref: 5189e79b9a480755a3733ac9713f5353981dbe18
+          path: skills
+
+      - name: Installer le lecteur de PDF
+        run: sudo apt-get install -y -qq poppler-utils > /dev/null
+
+      - name: Lancer la veille
+        env:
+          SEC_USER_AGENT: ${{ secrets.SEC_USER_AGENT }}
+        run: python3 veille.py matin
+
+      - name: Publier le rapport
+        env:
+          GH_TOKEN: ${{ github.token }}
+        run: |
+          if [ -f rapport.md ]; then
+            gh label create veille --color 1f6feb --description "Rapports de veille" 2>/dev/null || true
+            gh issue create --title "$(cat titre.txt)" --body-file rapport.md --label veille
+          fi
+
+      - name: Enregistrer la mémoire
+        run: |
+          git config user.name "veille-bot"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add etat
+          git diff --cached --quiet || (git commit -q -m "Veille du matin : mémoire" && git push -q)
