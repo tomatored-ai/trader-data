@@ -139,10 +139,15 @@ def congres(s, notes):
     elus = s.get("elus", [])
     if not elus:
         return []
+    tous = any(str(e).strip().lower() in ("tous", "*") for e in elus)
     args = ["new", "--json", "--state", os.path.join(ETAT, "pelosi.json"), "--pdf-dir",
             os.path.join(ICI, ".ptr-pdfs")]
-    for e in elus:
-        args += ["--member", e]
+    if tous:
+        # tous les élus : seulement les déclarations des 3 derniers jours (sinon des centaines au départ)
+        args += ["--since", (dt.date.today() - dt.timedelta(days=3)).isoformat()]
+    else:
+        for e in elus:
+            args += ["--member", e]
     if s["actions"]:
         args += ["--tickers"] + s["actions"]
     if OFFLINE:
@@ -157,6 +162,18 @@ def congres(s, notes):
         return []
     reports = {r["filing"]["doc_id"]: r for r in data.get("reports", [])}
     out = ["## 🏛️ Nouvelles déclarations du Congrès", ""]
+    suivies = []
+    for f in data["new"]:
+        rep = (reports.get(f["doc_id"]) or {}).get("report") or {}
+        for r in rep.get("rows", []):
+            if r.get("ticker") in s["actions"]:
+                suivies.append("- ⭐ **%s** : %s de %s (%s), le %s" % (
+                    f["name"], OPERATIONS.get(r.get("type_name"), r.get("type_name") or ""), r["ticker"],
+                    r.get("amount") or "", r.get("date") or ""))
+    if suivies:
+        out += ["**Concernent tes actions**"] + suivies + [""]
+    out.append("%d nouvelle(s) déclaration(s) :" % len(data["new"]))
+    out.append("")
     for f in data["new"]:
         out.append("**%s** (%s) · déposée le %s · [PDF](%s)" % (f["name"], f["district"], f["filed"], f["url"]))
         rep = (reports.get(f["doc_id"]) or {}).get("report")
@@ -164,7 +181,7 @@ def congres(s, notes):
             out.append("")
             out.append("| Date | Action | Opération | Titulaire | Montant | Délai |")
             out.append("| --- | --- | --- | --- | --- | --- |")
-            for r in rep["rows"]:
+            for r in rep["rows"][:15]:
                 action = r.get("ticker") or r.get("asset", "")[:30]
                 if r.get("ticker") in s["actions"]:
                     action = "⭐ " + action
@@ -177,6 +194,9 @@ def congres(s, notes):
                 out.append("| %s | %s | %s | %s | %s | %s |" % (
                     r.get("date") or "", action, op, TITULAIRES.get(r.get("owner_name"), r.get("owner_name") or ""),
                     r.get("amount") or "", "" if delai is None else "%d j%s" % (delai, " ⚠️" if r.get("late") else "")))
+            if len(rep["rows"]) > 15:
+                out.append("")
+                out.append("… et %d autre(s) ligne(s) : voir le PDF." % (len(rep["rows"]) - 15))
         elif not OFFLINE:
             out.append("- Lecture automatique impossible : ouvre le PDF.")
         out.append("")

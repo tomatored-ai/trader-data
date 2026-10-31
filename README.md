@@ -33,10 +33,11 @@ Ouvre `suivi.json`, clique sur le crayon, modifie, puis *Commit changes*.
 ```
 
 - **actions** : symboles américains suivis pour les actualités (et marqués ⭐ dans les déclarations du Congrès).
-- **elus** : noms de famille (ou « Prénom Nom ») des membres de la Chambre.
+- **elus** : noms de famille (ou « Prénom Nom ») des membres de la Chambre, ou `["tous"]` pour toutes les
+  déclarations (celles des 3 derniers jours, puis chaque nouvelle). `[]` = aucun suivi.
 - **fonds** : nom libre + numéro CIK de la SEC. Exemples : Pershing Square `0001336528`,
   ARK `0001697748`, Markel `0001096343`, Akre `0001112520`, Oaktree `0000949509`.
-- **alertes**, types possibles :
+- **alertes** (`[]` = aucune), types possibles :
   - `monte_a` + `prix` : le cours atteint ce prix ou plus ;
   - `descend_a` + `prix` : le cours atteint ce prix ou moins (`stop` fait pareil) ;
   - `bouge_de` + `pourcent` : variation depuis la clôture d'hier, au plus une fois par jour ;
