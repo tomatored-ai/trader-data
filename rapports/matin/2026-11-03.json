@@ -1,0 +1,83 @@
+{
+  "congres": [
+    {
+      "elu": "Hon. Donald Sternoff Beyer Jr",
+      "circonscription": "VA08",
+      "depot": "2026-11-01",
+      "pdf": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035743.pdf",
+      "lu": true,
+      "lignes": [
+        {
+          "date": "2026-10-07",
+          "action": null,
+          "actif": "California CMNTY VAR 11/01/54",
+          "operation": "achat",
+          "titulaire": "commun",
+          "montant": "$15,001 - $50,000",
+          "delai": 25,
+          "retard": false,
+          "suivie": false
+        }
+      ]
+    },
+    {
+      "elu": "Hon. John J Mr McGuire III",
+      "circonscription": "VA05",
+      "depot": "2026-11-01",
+      "pdf": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035484.pdf",
+      "lu": true,
+      "lignes": [
+        {
+          "date": "2026-09-24",
+          "action": "AVGO",
+          "actif": "Broadcom Inc. - Common Stock",
+          "operation": "vente partielle",
+          "titulaire": "conjoint",
+          "montant": "$1,001 - $15,000",
+          "delai": 38,
+          "retard": false,
+          "suivie": false
+        },
+        {
+          "date": "2026-09-24",
+          "action": "MU",
+          "actif": "Micron Technology, Inc. - Common Stock",
+          "operation": "achat",
+          "titulaire": "conjoint",
+          "montant": "$1,001 - $15,000",
+          "delai": 38,
+          "retard": false,
+          "suivie": false
+        },
+        {
+          "date": "2026-09-25",
+          "action": "MU",
+          "actif": "Micron Technology, Inc. - Common Stock",
+          "operation": "achat",
+          "titulaire": "conjoint",
+          "montant": "$1,001 - $15,000",
+          "delai": 37,
+          "retard": false,
+          "suivie": false
+        },
+        {
+          "date": "2026-10-01",
+          "action": "MU",
+          "actif": "Micron Technology, Inc. - Common Stock",
+          "operation": "achat",
+          "titulaire": "conjoint",
+          "montant": "$1,001 - $15,000",
+          "delai": 31,
+          "retard": false,
+          "suivie": false
+        }
+      ]
+    }
+  ],
+  "titre": "Point du matin — 03/11/2026",
+  "date": "2026-11-03",
+  "genere": "2026-11-03T07:55:38+00:00",
+  "notes": [
+    "Actualités : trader-news/news.py : TimeoutError: The read operation timed out"
+  ]
+}
