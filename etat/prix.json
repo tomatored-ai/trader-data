@@ -1,86 +1,86 @@
 {
-  "as_of": "2026-11-03T19:12:02Z",
+  "as_of": "2026-11-03T20:05:44Z",
   "source": "yahoo",
   "note": "Delayed quotes for alerts and sizing checks. Your broker's price is the one that fills.",
   "prices": {
-    "AAPL": 332.54,
-    "MSFT": 521.21,
-    "NVDA": 207.085,
-    "AMZN": 250.69,
-    "GOOGL": 279.095,
-    "META": 621.11,
-    "AXP": 326.05,
-    "BAC": 49.835,
-    "KO": 95.305,
-    "PEP": 138.041,
-    "JNJ": 267.38,
-    "PG": 162.105,
-    "MCD": 262.425
+    "AAPL": 330.02,
+    "MSFT": 522.55,
+    "NVDA": 206.61,
+    "AMZN": 251.175,
+    "GOOGL": 278.315,
+    "META": 619.285,
+    "AXP": 325.41,
+    "BAC": 49.825,
+    "KO": 95.02,
+    "PEP": 137.595,
+    "JNJ": 267.145,
+    "PG": 162.035,
+    "MCD": 262.89
   },
   "detail": {
     "AAPL": {
       "prev_close": 338.32,
-      "time": "2026-11-03T19:12:01Z",
+      "time": "2026-11-03T20:05:41Z",
       "source": "yahoo"
     },
     "MSFT": {
       "prev_close": 507.12,
-      "time": "2026-11-03T19:12:00Z",
+      "time": "2026-11-03T20:05:45Z",
       "source": "yahoo"
     },
     "NVDA": {
       "prev_close": 202.06,
-      "time": "2026-11-03T19:12:02Z",
+      "time": "2026-11-03T20:05:41Z",
       "source": "yahoo"
     },
     "AMZN": {
       "prev_close": 245.63,
-      "time": "2026-11-03T19:12:03Z",
+      "time": "2026-11-03T20:05:44Z",
       "source": "yahoo"
     },
     "GOOGL": {
       "prev_close": 278.99,
-      "time": "2026-11-03T19:12:03Z",
+      "time": "2026-11-03T20:05:44Z",
       "source": "yahoo"
     },
     "META": {
       "prev_close": 606.73,
-      "time": "2026-11-03T19:12:03Z",
+      "time": "2026-11-03T20:05:45Z",
       "source": "yahoo"
     },
     "AXP": {
       "prev_close": 327.98,
-      "time": "2026-11-03T19:11:46Z",
+      "time": "2026-11-03T20:05:41Z",
       "source": "yahoo"
     },
     "BAC": {
       "prev_close": 49.57,
-      "time": "2026-11-03T19:12:04Z",
+      "time": "2026-11-03T20:05:47Z",
       "source": "yahoo"
     },
     "KO": {
       "prev_close": 95.83,
-      "time": "2026-11-03T19:12:02Z",
+      "time": "2026-11-03T20:05:41Z",
       "source": "yahoo"
     },
     "PEP": {
       "prev_close": 140.42,
-      "time": "2026-11-03T19:11:13Z",
+      "time": "2026-11-03T20:05:48Z",
       "source": "yahoo"
     },
     "JNJ": {
       "prev_close": 270.56,
-      "time": "2026-11-03T19:12:04Z",
+      "time": "2026-11-03T20:05:49Z",
       "source": "yahoo"
     },
     "PG": {
       "prev_close": 163.56,
-      "time": "2026-11-03T19:11:59Z",
+      "time": "2026-11-03T20:05:20Z",
       "source": "yahoo"
     },
     "MCD": {
       "prev_close": 265.64,
-      "time": "2026-11-03T19:11:56Z",
+      "time": "2026-11-03T20:05:51Z",
       "source": "yahoo"
     }
   }
