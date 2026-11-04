@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-03T22:00:15Z",
+  "as_of": "2026-11-04T14:27:51Z",
   "source": "yahoo",
   "note": "Delayed quotes for alerts and sizing checks. Your broker's price is the one that fills.",
   "prices": {
