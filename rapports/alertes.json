@@ -1,5 +1,12 @@
 [
   {
+    "action": "JNJ",
+    "texte": "JNJ a bougé de 3 % ou plus depuis la clôture d'hier — cours 275.23 $",
+    "cours": 275.23,
+    "bourse_ouverte": true,
+    "heure": "2026-11-04T19:17:01+00:00"
+  },
+  {
     "action": "AAPL",
     "texte": "AAPL a bougé de 5 % ou plus depuis la clôture d'hier — cours 352.72 $",
     "cours": 352.72,
