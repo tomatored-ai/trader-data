@@ -1,5 +1,54 @@
 [
   {
+    "action": "AAPL",
+    "texte": "AAPL a bougé de 5 % ou plus depuis la clôture d'hier — cours 349.51 $",
+    "cours": 349.51,
+    "bourse_ouverte": false,
+    "heure": "2026-11-05T14:28:34+00:00"
+  },
+  {
+    "action": "MSFT",
+    "texte": "MSFT a bougé de 5 % ou plus depuis la clôture d'hier — cours 555.80 $",
+    "cours": 555.8,
+    "bourse_ouverte": false,
+    "heure": "2026-11-05T14:28:34+00:00"
+  },
+  {
+    "action": "AMZN",
+    "texte": "AMZN a bougé de 5 % ou plus depuis la clôture d'hier — cours 266.03 $",
+    "cours": 266.03,
+    "bourse_ouverte": false,
+    "heure": "2026-11-05T14:28:34+00:00"
+  },
+  {
+    "action": "PEP",
+    "texte": "PEP a bougé de 3 % ou plus depuis la clôture d'hier — cours 142.42 $",
+    "cours": 142.42,
+    "bourse_ouverte": false,
+    "heure": "2026-11-05T14:28:34+00:00"
+  },
+  {
+    "action": "JNJ",
+    "texte": "JNJ a bougé de 3 % ou plus depuis la clôture d'hier — cours 276.32 $",
+    "cours": 276.32,
+    "bourse_ouverte": false,
+    "heure": "2026-11-05T14:28:34+00:00"
+  },
+  {
+    "action": "PG",
+    "texte": "PG a bougé de 3 % ou plus depuis la clôture d'hier — cours 167.32 $",
+    "cours": 167.32,
+    "bourse_ouverte": false,
+    "heure": "2026-11-05T14:28:34+00:00"
+  },
+  {
+    "action": "MCD",
+    "texte": "MCD a bougé de 3 % ou plus depuis la clôture d'hier — cours 280.22 $",
+    "cours": 280.22,
+    "bourse_ouverte": false,
+    "heure": "2026-11-05T14:28:34+00:00"
+  },
+  {
     "action": "JNJ",
     "texte": "JNJ a bougé de 3 % ou plus depuis la clôture d'hier — cours 275.23 $",
     "cours": 275.23,
