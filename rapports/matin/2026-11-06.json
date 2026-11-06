@@ -1,0 +1,125 @@
+{
+  "congres": [
+    {
+      "elu": "Hon. Maria Elvira Salazar",
+      "circonscription": "FL27",
+      "depot": "2026-11-05",
+      "pdf": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035778.pdf",
+      "lu": true,
+      "lignes": [
+        {
+          "date": "2026-10-23",
+          "action": "CSCO",
+          "actif": "Cisco Systems, Inc. - Common Stock",
+          "operation": "vente",
+          "titulaire": "l'élu(e)",
+          "montant": "$1,001 - $15,000",
+          "delai": 13,
+          "retard": false,
+          "suivie": false
+        },
+        {
+          "date": "2026-10-23",
+          "action": "NVDA",
+          "actif": "NVIDIA Corporation - Common Stock",
+          "operation": "achat",
+          "titulaire": "l'élu(e)",
+          "montant": "$1,001 - $15,000",
+          "delai": 13,
+          "retard": false,
+          "suivie": true
+        },
+        {
+          "date": "2026-10-23",
+          "action": "NVDA",
+          "actif": "NVIDIA Corporation - Common Stock",
+          "operation": "achat",
+          "titulaire": "l'élu(e)",
+          "montant": "$1,001 - $15,000",
+          "delai": 13,
+          "retard": false,
+          "suivie": true
+        },
+        {
+          "date": "2026-10-23",
+          "action": "PG",
+          "actif": "Procter & Gamble Company",
+          "operation": "achat",
+          "titulaire": "l'élu(e)",
+          "montant": "$1,001 - $15,000",
+          "delai": 13,
+          "retard": false,
+          "suivie": true
+        },
+        {
+          "date": "2026-10-23",
+          "action": "PG",
+          "actif": "Procter & Gamble Company",
+          "operation": "achat",
+          "titulaire": "l'élu(e)",
+          "montant": "$1,001 - $15,000",
+          "delai": 13,
+          "retard": false,
+          "suivie": true
+        }
+      ]
+    },
+    {
+      "elu": "Hon. Daniel Meuser",
+      "circonscription": "PA09",
+      "depot": "2026-11-05",
+      "pdf": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035662.pdf",
+      "lu": true,
+      "lignes": [
+        {
+          "date": "2026-09-25",
+          "action": "NVDA",
+          "actif": "NVIDIA Corporation - Common Stock",
+          "operation": "vente partielle",
+          "titulaire": "conjoint",
+          "montant": "$1,001 - $15,000",
+          "delai": 41,
+          "retard": false,
+          "suivie": true
+        }
+      ]
+    },
+    {
+      "elu": "Hon. Mike Kelly",
+      "circonscription": "PA16",
+      "depot": "2026-11-04",
+      "pdf": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035765.pdf",
+      "lu": true,
+      "lignes": [
+        {
+          "date": "2026-10-15",
+          "action": null,
+          "actif": "Fairfax Cnty VA Ser A Go",
+          "operation": "vente",
+          "titulaire": "conjoint",
+          "montant": "$50,001 - $100,000",
+          "delai": 20,
+          "retard": false,
+          "suivie": false
+        },
+        {
+          "date": "2026-10-01",
+          "action": null,
+          "actif": "North Carolina Hsg Fin Agy Hom S",
+          "operation": "achat",
+          "titulaire": "conjoint",
+          "montant": "$50,001 - $100,000",
+          "delai": 34,
+          "retard": false,
+          "suivie": false
+        }
+      ]
+    }
+  ],
+  "titre": "Point du matin — 06/11/2026",
+  "date": "2026-11-06",
+  "genere": "2026-11-06T07:55:48+00:00",
+  "notes": [
+    "Actualités : trader-news/news.py : TimeoutError: The read operation timed out"
+  ]
+}
