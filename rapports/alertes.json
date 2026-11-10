@@ -1,6 +1,13 @@
 [
   {
     "action": "META",
+    "texte": "META a bougé de 5 % ou plus depuis la clôture d'hier — cours 641.37 $",
+    "cours": 641.37,
+    "bourse_ouverte": false,
+    "heure": "2026-11-10T14:25:07+00:00"
+  },
+  {
+    "action": "META",
     "texte": "META a bougé de 5 % ou plus depuis la clôture d'hier — cours 642.83 $",
     "cours": 642.83,
     "bourse_ouverte": true,
