@@ -1,6 +1,13 @@
 [
   {
     "action": "NVDA",
+    "texte": "NVDA a bougé de 5 % ou plus depuis la clôture d'hier — cours 168.89 $",
+    "cours": 168.89,
+    "bourse_ouverte": false,
+    "heure": "2026-11-11T14:27:56+00:00"
+  },
+  {
+    "action": "NVDA",
     "texte": "NVDA a bougé de 5 % ou plus depuis la clôture d'hier — cours 169.43 $",
     "cours": 169.43,
     "bourse_ouverte": true,
