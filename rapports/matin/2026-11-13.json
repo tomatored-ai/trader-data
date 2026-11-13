@@ -1,0 +1,1792 @@
+{
+  "actualites": [
+    {
+      "actions": [
+        "NVDA"
+      ],
+      "heure": "2026-11-13T07:50:00+00:00",
+      "source": "Yahoo Finance",
+      "titre": "1 Reason to Still Avoid Wendy's Stock, Even Though It's 10% Below Its 52-Week High",
+      "lien": "https://www.fool.com/investing/2026/11/13/1-reason-to-still-avoid-wendys-stock-wen-even-thou/?.tsrc=rss",
+      "etiquettes": [],
+      "important": false
+    },
+    {
+      "actions": [
+        "NVDA"
+      ],
+      "heure": "2026-11-13T07:34:59+00:00",
+      "source": "Yahoo Finance",
+      "titre": "Down 32% in a month, Super Micro trades at 6x P/E: Bargain or trap?",
+      "lien": "https://finance.yahoo.com/markets/stocks/articles/down-32-month-super-micro-073459211.html?.tsrc=rss",
+      "etiquettes": [],
+      "important": false
+    },
+    {
+      "actions": [
+        "NVDA"
+      ],
+      "heure": "2026-11-13T07:30:49+00:00",
+      "source": "Yahoo Finance",
+      "titre": "Nvidia CEO Jensen Huang resigns: Is the stock now a 50% bargain?",
+      "lien": "https://finance.yahoo.com/markets/stocks/articles/nvidia-ceo-jensen-huang-resigns-073049064.html?.tsrc=rss",
+      "etiquettes": [
+        "dirigeants"
+      ],
+      "important": false
+    },
+    {
+      "actions": [
+        "AMZN",
+        "META",
+        "MSFT",
+        "NVDA"
+      ],
+      "heure": "2026-11-13T07:30:33+00:00",
+      "source": "Yahoo Finance",
+      "titre": "At 21x earnings, Amazon is cheaper than Walmart and surging",
+      "lien": "https://finance.yahoo.com/markets/stocks/articles/21x-earnings-amazon-cheaper-walmart-073033897.html?.tsrc=rss",
+      "etiquettes": [
+        "résultats"
+      ],
+      "important": false
+    },
+    {
+      "actions": [
+        "NVDA"
+      ],
+      "heure": "2026-11-13T07:29:02+00:00",
+      "source": "Yahoo Finance",
+      "titre": "If a Stock Market Crash Is Coming, Warren Buffett’s 6-Word Advice Is the Smartest Move You Can Make",
+      "lien": "https://www.fool.com/investing/2026/11/13/if-a-stock-market-crash-is-coming-warren-buffett-s-6-word-advice-is-the-smartest-move-you-can-make/?.tsrc=rss",
+      "etiquettes": [],
+      "important": false
+    },
+    {
+      "actions": [
+        "NVDA"
+      ],
+      "heure": "2026-11-13T07:19:49+00:00",
+      "source": "Yahoo Finance",
+      "titre": "Asian markets turn negative as early rally fades after Huang downfall",
+      "lien": "https://finance.yahoo.com/markets/stocks/articles/tech-firms-extend-rally-asia-024621637.html?.tsrc=rss",
+      "etiquettes": [
+        "dirigeants"
+      ],
+      "important": false
+    },
+    {
+      "actions": [
+        "NVDA"
+      ],
+      "heure": "2026-11-13T07:07:19+00:00",
+      "source": "Yahoo Finance",
+      "titre": "US lawmakers summon Nvidia ex-CEO after affair with suspected spy",
+      "lien": "https://finance.yahoo.com/technology/ai/articles/nvidia-preparing-oust-ceo-jensen-002910155.html?.tsrc=rss",
+      "etiquettes": [
+        "dirigeants"
+      ],
+      "important": false
+    },
+    {
+      "actions": [
+        "NVDA"
+      ],
+      "heure": "2026-11-13T07:06:40+00:00",
+      "source": "Yahoo Finance",
+      "titre": "Nvidia Employees Reportedly Rally Behind Huang Even As Congress Seeks Answers On China Spy Scandal",
+      "lien": "https://stocktwits.com/news-articles/markets/equity/nvidia-employees-reportedly-rally-behind-huang-even-as-congress-seeks-answers-on-china-spy-scandal/cNbbuqXR9Ot?.tsrc=rss",
+      "etiquettes": [],
+      "important": false
+    },
+    {
+      "actions": [
+        "NVDA"
+      ],
+      "heure": "2026-11-13T06:53:41+00:00",
+      "source": "Yahoo Finance",
+      "titre": "Bitcoin Slips Below $69K For First Time Since August: Is This A Buying Opportunity Or A Deeper Crypto Rout?",
+      "lien": "https://stocktwits.com/news-articles/markets/cryptocurrency/bitcoin-price-below-69000-crypto-market-selloff-mstr-coin/cNbbMQDR9Os?.tsrc=rss",
+      "etiquettes": [],
+      "important": false
+    },
+    {
+      "actions": [
+        "NVDA"
+      ],
+      "heure": "2026-11-13T06:53:02+00:00",
+      "source": "Yahoo Finance",
+      "titre": "Here’s What a $1,000 Investment in Kraken Robotics Will Be Worth by the End of 2027 if Undersea Drone Orders Keep Doubling",
+      "lien": "https://www.fool.com/investing/2026/11/13/here-s-what-a-usd1-000-investment-in-kraken-robotics-will-be-worth-by-the-end-of-2027-if-undersea-drone-orders-keep-doubling/?.tsrc=rss",
+      "etiquettes": [],
+      "important": false
+    },
+    {
+      "actions": [
+        "NVDA"
+      ],
+      "heure": "2026-11-13T06:46:45+00:00",
+      "source": "Yahoo Finance",
+      "titre": "Jensen Huang's exit sends Bitcoin to 12-week low",
+      "lien": "https://www.thestreet.com/crypto/markets/jensen-huang-exit-sends-bitcoin-12-week-low?.tsrc=rss",
+      "etiquettes": [
+        "dirigeants"
+      ],
+      "important": false
+    },
+    {
+      "actions": [
+        "NVDA"
+      ],
+      "heure": "2026-11-13T06:40:35+00:00",
+      "source": "Yahoo Finance",
+      "titre": "China AI stocks tumble as Nvidia fallout fuels fears of tighter U.S. chip curbs",
+      "lien": "https://finance.yahoo.com/technology/ai/articles/china-ai-stocks-tumble-nvidia-064035259.html?.tsrc=rss",
+      "etiquettes": [],
+      "important": false
+    },
+    {
+      "actions": [
+        "NVDA"
+      ],
+      "heure": "2026-11-13T06:33:51+00:00",
+      "source": "Yahoo Finance",
+      "titre": "Analyst Sees Stricter US Export Controls After Nvidia",
+      "lien": "https://finance.yahoo.com/video/analyst-sees-stricter-us-export-063351966.html?.tsrc=rss",
+      "etiquettes": [],
+      "important": false
+    },
+    {
+      "actions": [
+        "NVDA"
+      ],
+      "heure": "2026-11-13T06:33:18+00:00",
+      "source": "Yahoo Finance",
+      "titre": "Guinness Atkinson CEO Discusses New K-Beauty ETF Launch",
+      "lien": "https://finance.yahoo.com/video/guinness-atkinson-ceo-discusses-k-063318708.html?.tsrc=rss",
+      "etiquettes": [
+        "dirigeants"
+      ],
+      "important": false
+    },
+    {
+      "actions": [
+        "NVDA"
+      ],
+      "heure": "2026-11-13T06:26:11+00:00",
+      "source": "Yahoo Finance",
+      "titre": "Stock Market: Will S&P 500 Open Up or Down Today?",
+      "lien": "https://www.benzinga.com/markets/prediction-markets/26/11/63229873/stock-market-will-sp-500-open-up-or-down-today-77?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+      "etiquettes": [
+        "dirigeants"
+      ],
+      "important": false
+    },
+    {
+      "actions": [
+        "NVDA"
+      ],
+      "heure": "2026-11-13T06:24:02+00:00",
+      "source": "Yahoo Finance",
+      "titre": "Broadcom Stock Just Jumped More Than 20% in 4 Days. It Has Done That Only 6 Other Times Since 2009.",
+      "lien": "https://www.fool.com/investing/2026/11/13/broadcom-stock-just-jumped-more-than-20-in-4-days-it-has-done-that-only-6-other-times-since-2009/?.tsrc=rss",
+      "etiquettes": [],
+      "important": false
+    },
+    {
+      "actions": [
+        "NVDA"
+      ],
+      "heure": "2026-11-13T05:48:39+00:00",
+      "source": "Yahoo Finance",
+      "titre": "Nvidia Funded AI Boom Under Jensen Huang, but Gary Marcus Questions if New CEO Will Keep Writing the Checks: ‘Whole Thing Might Collapse’",
+      "lien": "https://finance.yahoo.com/technology/ai/articles/nvidia-funded-ai-boom-under-054839907.html?.tsrc=rss",
+      "etiquettes": [
+        "dirigeants"
+      ],
+      "important": false
+    },
+    {
+      "actions": [
+        "NVDA"
+      ],
+      "heure": "2026-11-13T05:37:08+00:00",
+      "source": "Yahoo Finance",
+      "titre": "Asian shares decline as investors assess impact of Nvidia's fallout on global AI development",
+      "lien": "https://finance.yahoo.com/markets/stocks/articles/asian-shares-mixed-investors-assess-053708191.html?.tsrc=rss",
+      "etiquettes": [
+        "dirigeants"
+      ],
+      "important": false
+    },
+    {
+      "actions": [
+        "AMZN"
+      ],
+      "heure": "2026-11-13T05:17:40+00:00",
+      "source": "Yahoo Finance",
+      "titre": "What Could American Electric Power Company (AEP) Gain From 12 Indiana SMRs?",
+      "lien": "https://finance.yahoo.com/energy/articles/could-american-electric-power-company-051740491.html?.tsrc=rss",
+      "etiquettes": [],
+      "important": false
+    },
+    {
+      "actions": [
+        "MSFT"
+      ],
+      "heure": "2026-11-13T05:15:28+00:00",
+      "source": "Yahoo Finance",
+      "titre": "Microsoft (MSFT) Unveiled An Enterprise AI Agent Platform",
+      "lien": "https://finance.yahoo.com/technology/ai/articles/microsoft-msft-unveiled-enterprise-ai-051528313.html?.tsrc=rss",
+      "etiquettes": [
+        "risque"
+      ],
+      "important": false
+    },
+    {
+      "actions": [
+        "AMZN"
+      ],
+      "heure": "2026-11-13T05:01:54+00:00",
+      "source": "Yahoo Finance",
+      "titre": "Laird Superfood Inc (LSF) (Q3 2026) Earnings Call Highlights: Net Sales Surge 225% to $42 ...",
+      "lien": "https://finance.yahoo.com/markets/stocks/articles/laird-superfood-inc-lsf-q3-050154562.html?.tsrc=rss",
+      "etiquettes": [
+        "résultats"
+      ],
+      "important": false
+    },
+    {
+      "actions": [
+        "AAPL"
+      ],
+      "heure": "2026-11-13T05:01:49+00:00",
+      "source": "Yahoo Finance",
+      "titre": "Fallout from the Nvidia scandal may dampen the exuberance around the AI boom",
+      "lien": "https://finance.yahoo.com/technology/ai/articles/fallout-nvidia-scandal-may-dampen-050149172.html?.tsrc=rss",
+      "etiquettes": [
+        "dirigeants"
+      ],
+      "important": false
+    },
+    {
+      "actions": [
+        "AMZN"
+      ],
+      "heure": "2026-11-13T04:41:47+00:00",
+      "source": "Yahoo Finance",
+      "titre": "Cathie Wood Boosts Bets On 2 AI Firms Amid Nvidia’s Huang Upheaval — Here’s How Her Trading Week Unfolded",
+      "lien": "https://stocktwits.com/news-articles/markets/equity/cathie-wood-bets-2-ai-firms-nvidia-huang-upheaval-how-trading-week-unfolded/cNbbpHTR9Ol?.tsrc=rss",
+      "etiquettes": [],
+      "important": false
+    },
+    {
+      "actions": [
+        "GOOGL"
+      ],
+      "heure": "2026-11-13T04:34:27+00:00",
+      "source": "Yahoo Finance",
+      "titre": "3 Undervalued Stocks To Own In November 2026",
+      "lien": "https://finance.yahoo.com/markets/stocks/articles/3-undervalued-stocks-own-november-043427585.html?.tsrc=rss",
+      "etiquettes": [],
+      "important": false
+    },
+    {
+      "actions": [
+        "AXP"
+      ],
+      "heure": "2026-11-13T04:32:54+00:00",
+      "source": "Yahoo Finance",
+      "titre": "Where Tripadvisor Goes After A 51% Drop",
+      "lien": "https://finance.yahoo.com/markets/stocks/articles/where-tripadvisor-goes-51-drop-043254089.html?.tsrc=rss",
+      "etiquettes": [
+        "rachat/fusion",
+        "dirigeants"
+      ],
+      "important": false
+    },
+    {
+      "actions": [
+        "AMZN"
+      ],
+      "heure": "2026-11-13T04:20:00+00:00",
+      "source": "Yahoo Finance",
+      "titre": "If an AI Bubble Triggers a Bear Market, History Says This Is the Best Move Investors Can Make",
+      "lien": "https://www.fool.com/investing/2026/11/12/if-an-ai-bubble-triggers-a-bear-market-history-say/?.tsrc=rss",
+      "etiquettes": [],
+      "important": false
+    },
+    {
+      "actions": [
+        "AAPL",
+        "AMZN",
+        "GOOGL",
+        "META",
+        "MSFT"
+      ],
+      "heure": "2026-11-13T04:13:14+00:00",
+      "source": "Yahoo Finance",
+      "titre": "Michael Burry Sees A ‘Mechanical Bid’ Under NVDA Stock – Even As He Questions Nvidia’s Succession Plan And Asia Sales",
+      "lien": "https://stocktwits.com/news-articles/markets/equity/michael-burry-mechanical-bid-nvda-stock-questions-nvidia-succession-plan-asia-sales/cNbbpPXR9O1?.tsrc=rss",
+      "etiquettes": [],
+      "important": false
+    },
+    {
+      "actions": [
+        "AAPL",
+        "KO"
+      ],
+      "heure": "2026-11-13T04:12:02+00:00",
+      "source": "Yahoo Finance",
+      "titre": "3 Warren Buffett Stocks Just Closed at Record Highs. Here's the One I'd Still Buy Now.",
+      "lien": "https://www.fool.com/investing/2026/11/12/3-warren-buffett-stocks-just-closed-at-record-highs-here-s-the-one-i-d-still-buy-now/?.tsrc=rss",
+      "etiquettes": [],
+      "important": false
+    },
+    {
+      "actions": [
+        "MSFT"
+      ],
+      "heure": "2026-11-13T03:45:35+00:00",
+      "source": "Yahoo Finance",
+      "titre": "Microsoft hit by major global blackout",
+      "lien": "https://uk.finance.yahoo.com/news/microsoft-hit-major-global-outage-034535921.html?.tsrc=rss",
+      "etiquettes": [],
+      "important": false
+    },
+    {
+      "actions": [
+        "GOOGL"
+      ],
+      "heure": "2026-11-13T03:21:22+00:00",
+      "source": "Yahoo Finance",
+      "titre": "American Electric Power Company (AEP) Stock Looks Above Fair Value On Dividends",
+      "lien": "https://finance.yahoo.com/markets/stocks/articles/american-electric-power-company-aep-032122538.html?.tsrc=rss",
+      "etiquettes": [
+        "dividende/rachat d'actions"
+      ],
+      "important": false
+    },
+    {
+      "actions": [
+        "AAPL",
+        "MSFT"
+      ],
+      "heure": "2026-11-13T03:07:45+00:00",
+      "source": "Yahoo Finance",
+      "titre": "Dow, S&P 500, Nasdaq Futures Edge Higher As Markets Attempt To Recover From Nvidia Rout: SLS, MSFT, CADL, MSTR In Focus",
+      "lien": "https://stocktwits.com/news-articles/markets/equity/dow-s-and-p-500-nasdaq-futures-edge-higher-as-markets-attempt-to-recover-from-nvidia-rout-sls-msft-cadl-mstr-in-focus/cNbb8QDR9OW?.tsrc=rss",
+      "etiquettes": [
+        "dirigeants"
+      ],
+      "important": false
+    },
+    {
+      "actions": [
+        "AAPL",
+        "NVDA"
+      ],
+      "heure": "2026-11-13T02:57:58+00:00",
+      "source": "Yahoo Finance",
+      "titre": "Jensen Huang to Rejoin Nvidia? Crypto Prediction Markets Weigh the Odds as Colette Kress Emerges as Interim CEO",
+      "lien": "https://www.benzinga.com/markets/prediction-markets/26/11/63228832/jensen-huang-to-rejoin-nvidia-crypto-prediction-markets-weigh-the-odds-as-colette-kress-emerges-as-interim-ceo?utm_source=yahooFinance&utm_campaign=partner_feed&utm_medium=referral&.tsrc=rss",
+      "etiquettes": [
+        "dirigeants"
+      ],
+      "important": false
+    },
+    {
+      "actions": [
+        "AAPL"
+      ],
+      "heure": "2026-11-13T02:34:53+00:00",
+      "source": "Yahoo Finance",
+      "titre": "Why the AI industry is so dependent on Nvidia’s tech",
+      "lien": "https://www.cnn.com/2026/11/12/business/video/nvidia-market-2-bid-vod-hrzn?cid=external-feeds_iluminar_yahoo&.tsrc=rss",
+      "etiquettes": [
+        "dirigeants"
+      ],
+      "important": false
+    },
+    {
+      "actions": [
+        "AAPL",
+        "JNJ"
+      ],
+      "heure": "2026-11-13T02:32:55+00:00",
+      "source": "Yahoo Finance",
+      "titre": "Why Did AAPL, COST, JNJ Stocks Hit 52-Week Highs Today?",
+      "lien": "https://stocktwits.com/news-articles/markets/equity/why-did-aapl-cost-jnj-stocks-hit-52-week-highs-today/cNbbnh2R9Og?.tsrc=rss",
+      "etiquettes": [],
+      "important": false
+    },
+    {
+      "actions": [
+        "GOOGL"
+      ],
+      "heure": "2026-11-13T02:04:02+00:00",
+      "source": "Yahoo Finance",
+      "titre": "Should You Buy Alphabet Stock Now That Google Will Let Customers Run Its AI Chips in Their Own Data Centers?",
+      "lien": "https://www.fool.com/investing/2026/11/12/should-you-buy-alphabet-stock-now-that-google-will-let-customers-run-its-ai-chips-in-their-own-data-centers/?.tsrc=rss",
+      "etiquettes": [],
+      "important": false
+    },
+    {
+      "actions": [
+        "MSFT"
+      ],
+      "heure": "2026-11-13T02:00:00+00:00",
+      "source": "Yahoo Finance",
+      "titre": "FPT Recognized as Winner of 2026 Microsoft Malaysia Partner of the Year",
+      "lien": "https://finance.yahoo.com/technology/ai/articles/fpt-recognized-winner-2026-microsoft-020000532.html?.tsrc=rss",
+      "etiquettes": [],
+      "important": false
+    },
+    {
+      "actions": [
+        "META",
+        "MSFT"
+      ],
+      "heure": "2026-11-13T01:35:00+00:00",
+      "source": "Yahoo Finance",
+      "titre": "Grand Theft Auto VI Makes Take-Two Stock Look Like a Steal",
+      "lien": "https://finance.yahoo.com/m/71d9f72e-471f-3b18-a9fd-e82af767e21b/grand-theft-auto-vi-makes.html?.tsrc=rss",
+      "etiquettes": [],
+      "important": false
+    },
+    {
+      "actions": [
+        "MSFT"
+      ],
+      "heure": "2026-11-13T01:14:30+00:00",
+      "source": "Yahoo Finance",
+      "titre": "What Cerebras Systems (CBRS) Said on Its Q3 Earnings Call",
+      "lien": "https://www.marketbeat.com/instant-alerts/transcript-what-cerebras-systems-cbrs-said-on-its-q3-earnings-call-2026-11-12/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "etiquettes": [
+        "résultats"
+      ],
+      "important": false
+    },
+    {
+      "actions": [
+        "AMZN"
+      ],
+      "heure": "2026-11-13T01:04:39+00:00",
+      "source": "Yahoo Finance",
+      "titre": "LiveOne Inc (LVO) (Q2 2027) Earnings Call Highlights: Record EBITDA, Major B2B Partnerships and ...",
+      "lien": "https://finance.yahoo.com/markets/stocks/articles/liveone-inc-lvo-q2-2027-010439618.html?.tsrc=rss",
+      "etiquettes": [
+        "résultats"
+      ],
+      "important": false
+    },
+    {
+      "actions": [
+        "MSFT"
+      ],
+      "heure": "2026-11-13T01:00:00+00:00",
+      "source": "Yahoo Finance",
+      "titre": "Cohesity Expands Cyber Resilience and AI Data Capabilities for Microsoft Environments",
+      "lien": "https://finance.yahoo.com/technology/ai/articles/cohesity-expands-cyber-resilience-ai-010000921.html?.tsrc=rss",
+      "etiquettes": [],
+      "important": false
+    },
+    {
+      "actions": [
+        "KO"
+      ],
+      "heure": "2026-11-13T00:50:02+00:00",
+      "source": "Yahoo Finance",
+      "titre": "Chipotle Mexican Grill vs. Coca-Cola: Which Stock Is a Buy After the Nvidia Sell-Off?",
+      "lien": "https://www.fool.com/coverage/better-buy/2026/11/12/chipotle-mexican-grill-vs-coca-cola-which-stock-is-a-buy-after-the-nvidia-sell-off/?.tsrc=rss",
+      "etiquettes": [],
+      "important": false
+    },
+    {
+      "actions": [
+        "BAC"
+      ],
+      "heure": "2026-11-13T00:37:00+00:00",
+      "source": "Yahoo Finance",
+      "titre": "BofA reveals how Walmart will win shoppers heading into Christmas",
+      "lien": "https://www.thestreet.com/investing/stocks/bank-of-america-walmart-ai-shopping-features-heading-into-christmas-holidays?.tsrc=rss",
+      "etiquettes": [],
+      "important": false
+    },
+    {
+      "actions": [
+        "GOOGL"
+      ],
+      "heure": "2026-11-13T00:23:55+00:00",
+      "source": "Yahoo Finance",
+      "titre": "TeraWulf Stock Fell 24% in a Month. Lucid Capital Still Sees 67% Upside",
+      "lien": "https://www.tikr.com/blog/terawulf-stock-fell-24-in-a-month-lucid-capital-still-sees-67-upside?ref=yahoofinance&tlnk=yf-261112-6xjf7mcf&.tsrc=rss",
+      "etiquettes": [],
+      "important": false
+    },
+    {
+      "actions": [
+        "KO"
+      ],
+      "heure": "2026-11-13T00:20:18+00:00",
+      "source": "Yahoo Finance",
+      "titre": "Nvidia Is Not a Normal Company Having a CEO Issue: Everson",
+      "lien": "https://finance.yahoo.com/video/nvidia-not-normal-company-having-002018707.html?.tsrc=rss",
+      "etiquettes": [
+        "dirigeants"
+      ],
+      "important": false
+    },
+    {
+      "actions": [
+        "AMZN",
+        "MSFT"
+      ],
+      "heure": "2026-11-13T00:00:00+00:00",
+      "source": "Yahoo Finance",
+      "titre": "PwC spots a major shift in retirement money",
+      "lien": "https://www.thestreet.com/retirement/pwc-pension-funds-ai-investments?.tsrc=rss",
+      "etiquettes": [],
+      "important": false
+    },
+    {
+      "actions": [
+        "GOOGL"
+      ],
+      "heure": "2026-11-13T00:00:00+00:00",
+      "source": "Yahoo Finance",
+      "titre": "Your Customers Are Asking AI About Your Company. Here’s How to Audit What It Says.",
+      "lien": "https://www.entrepreneur.com/business-news/your-customers-are-asking-ai-about-your-company-heres-how-to-audit-what-it-says?.tsrc=rss",
+      "etiquettes": [],
+      "important": false
+    },
+    {
+      "actions": [
+        "META"
+      ],
+      "heure": "2026-11-12T23:35:01+00:00",
+      "source": "Yahoo Finance",
+      "titre": "Anthropic’s $500 Billion Question",
+      "lien": "https://www.fool.com/investing/2026/11/12/anthropics-500-billion-question/?.tsrc=rss",
+      "etiquettes": [],
+      "important": false
+    },
+    {
+      "actions": [
+        "PG"
+      ],
+      "heure": "2026-11-12T23:21:39+00:00",
+      "source": "Yahoo Finance",
+      "titre": "Procter & Gamble vs. Starbucks: Which Stock Is a Better Buy for 2027?",
+      "lien": "https://www.fool.com/coverage/better-buy/2026/11/12/procter-and-gamble-vs-starbucks-which-stock-is-a-better-buy-for-2027/?.tsrc=rss",
+      "etiquettes": [],
+      "important": false
+    },
+    {
+      "actions": [
+        "AAPL"
+      ],
+      "heure": "2026-11-12T23:20:00+00:00",
+      "source": "Yahoo Finance",
+      "titre": "Apple rises 26 places on the Roundtable 100",
+      "lien": "https://www.thestreet.com/crypto/markets/apple-rises-26-places-on-the-roundtable-100?.tsrc=rss",
+      "etiquettes": [],
+      "important": false
+    },
+    {
+      "actions": [
+        "BAC"
+      ],
+      "heure": "2026-11-12T23:06:41+00:00",
+      "source": "Yahoo Finance",
+      "titre": "Bank of America Sees Up to 95% Upside in 2 Stocks",
+      "lien": "https://finance.yahoo.com/healthcare/articles/bank-america-sees-95-upside-230641865.html?.tsrc=rss",
+      "etiquettes": [],
+      "important": false
+    },
+    {
+      "actions": [
+        "GOOGL"
+      ],
+      "heure": "2026-11-12T23:05:59+00:00",
+      "source": "Yahoo Finance",
+      "titre": "Alphabet Draws $5 Billion in Orders as AI Frenzy Builds",
+      "lien": "https://finance.yahoo.com/technology/ai/articles/alphabet-draws-5-billion-orders-230559734.html?.tsrc=rss",
+      "etiquettes": [],
+      "important": false
+    },
+    {
+      "actions": [
+        "MSFT"
+      ],
+      "heure": "2026-11-12T23:04:48+00:00",
+      "source": "Yahoo Finance",
+      "titre": "Microsoft Makes Bold Pledge on America's Power Bills",
+      "lien": "https://finance.yahoo.com/energy/articles/microsoft-makes-bold-pledge-americas-230448025.html?.tsrc=rss",
+      "etiquettes": [],
+      "important": false
+    },
+    {
+      "actions": [
+        "AAPL",
+        "GOOGL"
+      ],
+      "heure": "2026-11-12T23:04:45+00:00",
+      "source": "Yahoo Finance",
+      "titre": "Google's Next Big AI Push Has Apple in the Picture",
+      "lien": "https://finance.yahoo.com/technology/ai/articles/googles-next-big-ai-push-230445065.html?.tsrc=rss",
+      "etiquettes": [
+        "analystes"
+      ],
+      "important": false
+    },
+    {
+      "actions": [
+        "AMZN",
+        "MSFT"
+      ],
+      "heure": "2026-11-12T23:02:00+00:00",
+      "source": "Yahoo Finance",
+      "titre": "Cerebras Adds Microsoft Partnership to Diversify Beyond OpenAI",
+      "lien": "https://finance.yahoo.com/m/37b188cf-c355-340b-a82d-9507f4bf41f2/cerebras-adds-microsoft.html?.tsrc=rss",
+      "etiquettes": [],
+      "important": false
+    },
+    {
+      "actions": [
+        "GOOGL"
+      ],
+      "heure": "2026-11-12T23:00:39+00:00",
+      "source": "Yahoo Finance",
+      "titre": "Can Huang's Exit Create Chip Competition",
+      "lien": "https://finance.yahoo.com/video/huangs-exit-create-chip-competition-230039379.html?.tsrc=rss",
+      "etiquettes": [],
+      "important": false
+    },
+    {
+      "actions": [
+        "AMZN"
+      ],
+      "heure": "2026-11-12T22:53:38+00:00",
+      "source": "Yahoo Finance",
+      "titre": "e.l.f. Beauty vs. lululemon athletica: Which Consumer Goods Stock Is a Better Buy for 2027?",
+      "lien": "https://www.fool.com/coverage/better-buy/2026/11/12/elf-beauty-vs-lululemon-athletica-which-consumer-goods-stock-is-a-better-buy-for-2027/?.tsrc=rss",
+      "etiquettes": [],
+      "important": false
+    },
+    {
+      "actions": [
+        "AAPL"
+      ],
+      "heure": "2026-11-12T22:44:12+00:00",
+      "source": "Yahoo Finance",
+      "titre": "Nvidia market cap plunges $490 billion following former CEO Huang's affair scandals",
+      "lien": "https://finance.yahoo.com/technology/article/nvidia-market-cap-plunges-490-billion-following-former-ceo-huangs-affair-scandals-224412004.html?.tsrc=rss",
+      "etiquettes": [
+        "dirigeants"
+      ],
+      "important": false
+    },
+    {
+      "actions": [
+        "MSFT"
+      ],
+      "heure": "2026-11-12T22:38:17+00:00",
+      "source": "Yahoo Finance",
+      "titre": "Bill Ackman says Microsoft's position is 'really, really strong' as Anthropic pushes into enterprise software",
+      "lien": "https://finance.yahoo.com/markets/stocks/article/bill-ackman-says-microsofts-position-is-really-really-strong-as-anthropic-pushes-into-enterprise-software-223817595.html?.tsrc=rss",
+      "etiquettes": [],
+      "important": false
+    },
+    {
+      "actions": [
+        "MSFT"
+      ],
+      "heure": "2026-11-12T22:34:34+00:00",
+      "source": "Yahoo Finance",
+      "titre": "Azure Grew 48%, Yet Griffin Securities Downgraded Microsoft (MSFT). Here’s the Catch",
+      "lien": "https://finance.yahoo.com/markets/stocks/articles/azure-grew-48-yet-griffin-223434737.html?.tsrc=rss",
+      "etiquettes": [
+        "analystes"
+      ],
+      "important": false
+    },
+    {
+      "actions": [
+        "AAPL"
+      ],
+      "heure": "2026-11-12T22:33:45+00:00",
+      "source": "Yahoo Finance",
+      "titre": "China Renaissance Upgraded Apple (AAPL) to Buy. DZ Bank Cut It to Sell. Here’s the Split",
+      "lien": "https://finance.yahoo.com/markets/stocks/articles/china-renaissance-upgraded-apple-aapl-223345838.html?.tsrc=rss",
+      "etiquettes": [
+        "analystes"
+      ],
+      "important": false
+    },
+    {
+      "actions": [
+        "GOOGL"
+      ],
+      "heure": "2026-11-12T22:33:21+00:00",
+      "source": "Yahoo Finance",
+      "titre": "5 Unrivaled Stocks to Buy for the Next Decade",
+      "lien": "https://finance.yahoo.com/markets/stocks/articles/5-unrivaled-stocks-buy-next-223321955.html?.tsrc=rss",
+      "etiquettes": [],
+      "important": false
+    },
+    {
+      "actions": [
+        "AAPL"
+      ],
+      "heure": "2026-11-12T22:31:00+00:00",
+      "source": "Yahoo Finance",
+      "titre": "Why Tim Cook Shouldn’t Run Nvidia",
+      "lien": "https://finance.yahoo.com/m/9438e19c-ef64-3bea-816f-6532e33dc552/why-tim-cook-shouldn%E2%80%99t-run.html?.tsrc=rss",
+      "etiquettes": [
+        "dirigeants"
+      ],
+      "important": false
+    },
+    {
+      "actions": [
+        "AAPL",
+        "GOOGL",
+        "NVDA"
+      ],
+      "heure": "2026-11-12T22:30:53+00:00",
+      "source": "Yahoo Finance",
+      "titre": "Nvidia Needs a Colossus to Replace Jensen Huang, and Eric Schmidt May Be the Only One Who Fits",
+      "lien": "https://247wallst.com/videos/nvidia-needs-a-colossus-to-replace-jensen-huang-and-eric-schmidt-may-be-the-only-one-who-fits/?.tsrc=rss",
+      "etiquettes": [],
+      "important": false
+    },
+    {
+      "actions": [
+        "MSFT"
+      ],
+      "heure": "2026-11-12T22:26:00+00:00",
+      "source": "Yahoo Finance",
+      "titre": "Nvidia’s Bonds Hold Steady After Huang’s Exit. Now Watch the Interim CEO.",
+      "lien": "https://finance.yahoo.com/m/31cfc872-5831-3dfb-96c5-371c46d34068/nvidia%E2%80%99s-bonds-hold-steady.html?.tsrc=rss",
+      "etiquettes": [
+        "dirigeants"
+      ],
+      "important": false
+    },
+    {
+      "actions": [
+        "AAPL"
+      ],
+      "heure": "2026-11-12T22:23:52+00:00",
+      "source": "Yahoo Finance",
+      "titre": "Apple Stock Called 'Safe Haven,' Hits Record High",
+      "lien": "https://finance.yahoo.com/m/7dbdf3a7-eb6f-38f5-abbb-3d4ea8a38ecf/apple-stock-called-%27safe.html?.tsrc=rss",
+      "etiquettes": [],
+      "important": false
+    },
+    {
+      "actions": [
+        "GOOGL"
+      ],
+      "heure": "2026-11-12T22:23:39+00:00",
+      "source": "Yahoo Finance",
+      "titre": "Why Alphabet Stock Was Moving Higher Today",
+      "lien": "https://www.fool.com/investing/2026/11/12/why-alphabet-stock-was-moving-higher-today/?.tsrc=rss",
+      "etiquettes": [],
+      "important": false
+    },
+    {
+      "actions": [
+        "GOOGL"
+      ],
+      "heure": "2026-11-12T22:21:57+00:00",
+      "source": "Yahoo Finance",
+      "titre": "Vanguard CEO Salim Ramji warns bond market volatility could be a key 2027 risk",
+      "lien": "https://finance.yahoo.com/markets/article/vanguard-ceo-salim-ramji-warns-bond-market-volatility-could-be-a-key-2027-risk-222157006.html?.tsrc=rss",
+      "etiquettes": [
+        "dirigeants"
+      ],
+      "important": false
+    },
+    {
+      "actions": [
+        "META",
+        "MSFT"
+      ],
+      "heure": "2026-11-12T22:20:29+00:00",
+      "source": "Yahoo Finance",
+      "titre": "Musk: SpaceX Makes Compute “Actually Usable” in 2 Months, 3x Faster than Rivals",
+      "lien": "https://www.tikr.com/blog/musk-spacex-makes-compute-actually-usable-in-2-months-3x-faster-than-rivals?ref=yahoofinance&tlnk=yf-261112-j4mj678g&.tsrc=rss",
+      "etiquettes": [],
+      "important": false
+    },
+    {
+      "actions": [
+        "AMZN",
+        "NVDA"
+      ],
+      "heure": "2026-11-12T22:19:25+00:00",
+      "source": "Yahoo Finance",
+      "titre": "How Nvidia's stock decline might impact your 401(k) and portfolio",
+      "lien": "https://finance.yahoo.com/video/how-nvidias-stock-decline-might-impact-your-401k-and-portfolio-221925275.html?.tsrc=rss",
+      "etiquettes": [
+        "dirigeants"
+      ],
+      "important": false
+    },
+    {
+      "actions": [
+        "META"
+      ],
+      "heure": "2026-11-12T22:14:48+00:00",
+      "source": "Yahoo Finance",
+      "titre": "What ERock (EROC) Said on Its Q3 Earnings Call",
+      "lien": "https://www.marketbeat.com/instant-alerts/transcript-what-erock-eroc-said-on-its-q3-earnings-call-2026-11-12/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "etiquettes": [
+        "résultats"
+      ],
+      "important": false
+    },
+    {
+      "actions": [
+        "AMZN"
+      ],
+      "heure": "2026-11-12T22:14:45+00:00",
+      "source": "Yahoo Finance",
+      "titre": "What X-Energy (XE) Said on Its Q3 Earnings Call",
+      "lien": "https://www.marketbeat.com/instant-alerts/transcript-what-x-energy-xe-said-on-its-q3-earnings-call-2026-11-12/?utm_source=yahoofinance&utm_medium=yahoofinance&.tsrc=rss",
+      "etiquettes": [
+        "résultats"
+      ],
+      "important": false
+    },
+    {
+      "actions": [
+        "AMZN",
+        "MSFT"
+      ],
+      "heure": "2026-11-12T22:14:19+00:00",
+      "source": "Yahoo Finance",
+      "titre": "AI Chipmaker Cerebras Tops Q3 Views, Adds Big Customers",
+      "lien": "https://finance.yahoo.com/m/796c2692-2257-3845-800e-6fe66e2532b9/ai-chipmaker-cerebras-tops-q3.html?.tsrc=rss",
+      "etiquettes": [],
+      "important": false
+    },
+    {
+      "actions": [
+        "AMZN",
+        "GOOGL",
+        "MSFT"
+      ],
+      "heure": "2026-11-12T22:13:31+00:00",
+      "source": "Yahoo Finance",
+      "titre": "Why Bill Ackman sees value in Microsoft",
+      "lien": "https://finance.yahoo.com/video/why-bill-ackman-sees-value-in-microsoft-221331615.html?.tsrc=rss",
+      "etiquettes": [
+        "dirigeants"
+      ],
+      "important": false
+    },
+    {
+      "actions": [
+        "GOOGL"
+      ],
+      "heure": "2026-11-12T22:02:08+00:00",
+      "source": "Yahoo Finance",
+      "titre": "NIQ Global Intelligence Plc Q3 2026 Earnings Call Summary",
+      "lien": "https://app.moby.co/home/research/tools/earningsCalendar/earnings-niq-global-intelligence-plc-q3-2026-earnings-call-summary?utm_source=yahoo_finance&utm_medium=rss&.tsrc=rss",
+      "etiquettes": [
+        "résultats"
+      ],
+      "important": false
+    },
+    {
+      "actions": [
+        "GOOGL",
+        "KO"
+      ],
+      "heure": "2026-11-12T21:50:02+00:00",
+      "source": "Yahoo Finance",
+      "titre": "2 No-Brainer Warren Buffett Stocks to Buy in the Post-Election Market Sell-Off and Hold Forever",
+      "lien": "https://www.fool.com/investing/2026/11/12/2-no-brainer-warren-buffett-stocks-to-buy-in-the-post-election-market-sell-off-and-hold-forever/?.tsrc=rss",
+      "etiquettes": [],
+      "important": false
+    },
+    {
+      "actions": [
+        "AAPL",
+        "AMZN"
+      ],
+      "heure": "2026-11-12T21:40:44+00:00",
+      "source": "Yahoo Finance",
+      "titre": "Microsoft And Amazon Show AI Spending Can Pay Off",
+      "lien": "https://cdn.jwplayer.com/previews/ROry4HT2?.tsrc=rss",
+      "etiquettes": [
+        "résultats"
+      ],
+      "important": false
+    },
+    {
+      "actions": [
+        "AMZN",
+        "META"
+      ],
+      "heure": "2026-11-12T21:35:40+00:00",
+      "source": "Yahoo Finance",
+      "titre": "AI Debt Binge Hits a Wall As Global Bond Markets Reach Saturation Point, Wells Fargo Warns",
+      "lien": "https://stocktwits.com/news-articles/markets/equity/ai-debt-binge-hits-a-wall-as-global-bond-markets-reach-saturation-point-wells-fargo-warns/cNGC7rER9OP?.tsrc=rss",
+      "etiquettes": [],
+      "important": false
+    },
+    {
+      "actions": [
+        "AAPL",
+        "META"
+      ],
+      "heure": "2026-11-12T21:28:00+00:00",
+      "source": "Yahoo Finance",
+      "titre": "You Don’t Need Nvidia to Beat the S&P 500. These ETFs Prove It.",
+      "lien": "https://finance.yahoo.com/m/e06ea049-e52a-3263-b062-441c2cbea837/you-don%E2%80%99t-need-nvidia-to-beat.html?.tsrc=rss",
+      "etiquettes": [],
+      "important": false
+    },
+    {
+      "actions": [
+        "META"
+      ],
+      "heure": "2026-11-12T21:27:49+00:00",
+      "source": "SEC",
+      "titre": "Meta Platforms, Inc. filed a 8-K: other events",
+      "lien": "https://www.sec.gov/Archives/edgar/data/1326801/000119312526458525/0001193125-26-458525-index.htm",
+      "etiquettes": [],
+      "important": false
+    },
+    {
+      "actions": [
+        "AMZN",
+        "META"
+      ],
+      "heure": "2026-11-12T21:10:09+00:00",
+      "source": "Yahoo Finance",
+      "titre": "5 Best Stocks to Buy After Democrats’ Election Sweep, According to CIBC",
+      "lien": "https://finance.yahoo.com/markets/stocks/articles/5-best-stocks-buy-democrats-211009002.html?.tsrc=rss",
+      "etiquettes": [],
+      "important": false
+    },
+    {
+      "actions": [
+        "BAC"
+      ],
+      "heure": "2026-11-12T20:12:54+00:00",
+      "source": "Yahoo Finance",
+      "titre": "Can Bank of America (BAC) Still Be Undervalued Here?",
+      "lien": "https://finance.yahoo.com/markets/stocks/articles/bank-america-bac-still-undervalued-201254727.html?.tsrc=rss",
+      "etiquettes": [],
+      "important": false
+    },
+    {
+      "actions": [
+        "META"
+      ],
+      "heure": "2026-11-12T20:09:00+00:00",
+      "source": "Yahoo Finance",
+      "titre": "millionways Introduces Thorsten-4, the Foundation Model That Teaches AI to Read the Room and Understand Human Behavior",
+      "lien": "https://finance.yahoo.com/technology/ai/articles/millionways-introduces-thorsten-4-foundation-141500637.html?.tsrc=rss",
+      "etiquettes": [],
+      "important": false
+    },
+    {
+      "actions": [
+        "BAC"
+      ],
+      "heure": "2026-11-12T19:53:00+00:00",
+      "source": "Yahoo Finance",
+      "titre": "Victoria’s Secret rally leaves limited upside, Bank of America warns",
+      "lien": "https://www.proactiveinvestors.com/companies/news/1101710/victoria-s-secret-rally-leaves-limited-upside-bank-of-america-warns-1101710.html?.tsrc=rss",
+      "etiquettes": [
+        "résultats",
+        "analystes"
+      ],
+      "important": false
+    },
+    {
+      "actions": [
+        "AMZN",
+        "META"
+      ],
+      "heure": "2026-11-12T19:50:00+00:00",
+      "source": "Yahoo Finance",
+      "titre": "Pimco CEO Warns: AI Companies Risk Borrowing \"Too Much\" ($10 Trillion)",
+      "lien": "https://www.fool.com/investing/2026/11/12/pimco-ceo-warns-ai-companies-risk-borrowing-too-mu/?.tsrc=rss",
+      "etiquettes": [
+        "dirigeants"
+      ],
+      "important": false
+    },
+    {
+      "actions": [
+        "BAC"
+      ],
+      "heure": "2026-11-12T19:44:41+00:00",
+      "source": "Yahoo Finance",
+      "titre": "Bank of America Revamps AMD Stock Price Target for 2027",
+      "lien": "https://finance.yahoo.com/markets/stocks/articles/bank-america-revamps-amd-stock-194441792.html?.tsrc=rss",
+      "etiquettes": [
+        "analystes"
+      ],
+      "important": false
+    },
+    {
+      "actions": [
+        "BAC"
+      ],
+      "heure": "2026-11-12T19:42:58+00:00",
+      "source": "Yahoo Finance",
+      "titre": "Bank of America Drops Shock Take on Victoria's Secret Stock After Rally",
+      "lien": "https://finance.yahoo.com/markets/stocks/articles/bank-america-drops-shock-victorias-194258296.html?.tsrc=rss",
+      "etiquettes": [],
+      "important": false
+    },
+    {
+      "actions": [
+        "PEP"
+      ],
+      "heure": "2026-11-12T19:35:21+00:00",
+      "source": "Yahoo Finance",
+      "titre": "A $1,500,000 Portfolio in Clorox, Kimberly-Clark and PepsiCo Pays $67,627 a Year in Dividends. Here’s What Happens if One Cuts",
+      "lien": "https://www.tikr.com/blog/a-1500000-portfolio-in-clorox-kimberly-clark-and-pepsico-pays-67128-a-year-in-dividends-heres-what-happens-if-one-cuts?ref=yahoofinancedividend&tlnk=yf-261112-2x74qxgx&.tsrc=rss",
+      "etiquettes": [],
+      "important": false
+    },
+    {
+      "actions": [
+        "AMZN",
+        "META"
+      ],
+      "heure": "2026-11-12T19:32:12+00:00",
+      "source": "Yahoo Finance",
+      "titre": "How Much Higher Can Snap Stock Go From Here?",
+      "lien": "https://www.trefis.com/stock/snap/articles/624531/how-much-higher-can-snap-stock-go-from-here/2026-11-12?.tsrc=rss",
+      "etiquettes": [],
+      "important": false
+    },
+    {
+      "actions": [
+        "META"
+      ],
+      "heure": "2026-11-12T19:23:31+00:00",
+      "source": "Yahoo Finance",
+      "titre": "Mark Zuckerberg’s Meta AI Predicts a Historic Comeback for Solana",
+      "lien": "https://99bitcoins.com/news/altcoins/mark-zuckerbergs-meta-ai-predicts-a-historic-comeback-for-solana/?.tsrc=rss",
+      "etiquettes": [
+        "dirigeants"
+      ],
+      "important": false
+    },
+    {
+      "actions": [
+        "JNJ"
+      ],
+      "heure": "2026-11-12T19:15:30+00:00",
+      "source": "Yahoo Finance",
+      "titre": "Is Amgen Stock Priced Right Against Its Peers?",
+      "lien": "https://www.trefis.com/stock/amgn/articles/624559/is-amgen-stock-priced-right-against-its-peers/2026-11-12?.tsrc=rss",
+      "etiquettes": [],
+      "important": false
+    },
+    {
+      "actions": [
+        "META"
+      ],
+      "heure": "2026-11-12T19:13:50+00:00",
+      "source": "Yahoo Finance",
+      "titre": "Is investor appetite for AI running out? Why Ranmore is turning to Asia",
+      "lien": "https://finance.yahoo.com/technology/ai/articles/investor-appetite-ai-running-why-191350950.html?.tsrc=rss",
+      "etiquettes": [],
+      "important": false
+    },
+    {
+      "actions": [
+        "BAC"
+      ],
+      "heure": "2026-11-12T19:12:00+00:00",
+      "source": "Yahoo Finance",
+      "titre": "GTA 6 needs $1.9bn opening weekend to satisfy investors, says Bank of America",
+      "lien": "https://www.proactiveinvestors.com/companies/news/1101705/gta-6-needs-1-9bn-opening-weekend-to-satisfy-investors-says-bank-of-america-1101705.html?.tsrc=rss",
+      "etiquettes": [],
+      "important": false
+    },
+    {
+      "actions": [
+        "META"
+      ],
+      "heure": "2026-11-12T19:00:00+00:00",
+      "source": "Yahoo Finance",
+      "titre": "LMSYS Org Launches SGLang Consortium with NVIDIA, AMD, Intel, Google, Meta, Cloudflare, Modal and RadixArk to Advance Open-Source AI Inference",
+      "lien": "https://finance.yahoo.com/technology/ai/articles/lmsys-org-launches-sglang-consortium-190000546.html?.tsrc=rss",
+      "etiquettes": [],
+      "important": false
+    },
+    {
+      "actions": [
+        "BAC"
+      ],
+      "heure": "2026-11-12T18:50:00+00:00",
+      "source": "Yahoo Finance",
+      "titre": "iHeartMedia price target cut 80% by Bank of America after guidance downgrade",
+      "lien": "https://www.proactiveinvestors.com/companies/news/1101704/iheartmedia-price-target-cut-80-by-bank-of-america-after-guidance-downgrade-1101704.html?.tsrc=rss",
+      "etiquettes": [
+        "résultats",
+        "analystes"
+      ],
+      "important": false
+    },
+    {
+      "actions": [
+        "BAC"
+      ],
+      "heure": "2026-11-12T18:37:00+00:00",
+      "source": "Yahoo Finance",
+      "titre": "Victoria’s Secret’s Turnaround Is Working. Why It Got a Downgrade Anyway.",
+      "lien": "https://finance.yahoo.com/m/d3de5029-6c98-3cc7-be74-df9a5307692f/victoria%E2%80%99s-secret%E2%80%99s.html?.tsrc=rss",
+      "etiquettes": [
+        "analystes"
+      ],
+      "important": false
+    },
+    {
+      "actions": [
+        "PEP"
+      ],
+      "heure": "2026-11-12T18:30:07+00:00",
+      "source": "Yahoo Finance",
+      "titre": "After Selling Poppi For $1.95B, The Ellsworths Are Back With Another Startup. But What Comes After A Billion-Dollar Exit?",
+      "lien": "https://finance.yahoo.com/small-business/articles/selling-poppi-1-95b-ellsworths-183007893.html?.tsrc=rss",
+      "etiquettes": [],
+      "important": false
+    },
+    {
+      "actions": [
+        "META"
+      ],
+      "heure": "2026-11-12T18:28:04+00:00",
+      "source": "Yahoo Finance",
+      "titre": "Jensen Huang built Nvidia into a $4 trillion AI giant but owned less than 4% of it, leaving him without the super-voting power to protect his CEO role",
+      "lien": "https://finance.yahoo.com/markets/stocks/articles/jensen-huang-built-nvidia-4-182804293.html?.tsrc=rss",
+      "etiquettes": [
+        "dirigeants"
+      ],
+      "important": false
+    },
+    {
+      "actions": [
+        "MCD"
+      ],
+      "heure": "2026-11-12T18:20:02+00:00",
+      "source": "Yahoo Finance",
+      "titre": "McDonald's Is a Dividend King With 50 Years of Raises. Here's What $10,000 Invested Pays.",
+      "lien": "https://www.fool.com/investing/2026/11/12/mcdonalds-dividend-king-50-years-raises-what-10000-invested-pays/?.tsrc=rss",
+      "etiquettes": [
+        "dividende/rachat d'actions"
+      ],
+      "important": false
+    },
+    {
+      "actions": [
+        "META"
+      ],
+      "heure": "2026-11-12T18:09:33+00:00",
+      "source": "Yahoo Finance",
+      "titre": "Why customer trust is everything to Yahoo CEO Jim Lanzone",
+      "lien": "https://finance.yahoo.com/video/why-customer-trust-is-everything-to-yahoo-ceo-jim-lanzone-180933734.html?.tsrc=rss",
+      "etiquettes": [
+        "dirigeants"
+      ],
+      "important": false
+    },
+    {
+      "actions": [
+        "PEP"
+      ],
+      "heure": "2026-11-12T18:06:08+00:00",
+      "source": "Yahoo Finance",
+      "titre": "Which Gives You More Of A Profit Rebound, Mondelez Or Hershey?",
+      "lien": "https://www.trefis.com/stock/mdlz/articles/624538/which-gives-you-more-of-a-profit-rebound-mondelez-or-hershey/2026-11-12?.tsrc=rss",
+      "etiquettes": [],
+      "important": false
+    },
+    {
+      "actions": [
+        "AXP",
+        "KO"
+      ],
+      "heure": "2026-11-12T17:20:02+00:00",
+      "source": "Yahoo Finance",
+      "titre": "Warren Buffett Doesn't Follow His Own S&P 500 Advice. Should You?",
+      "lien": "https://www.fool.com/investing/2026/11/12/warren-buffett-doesnt-follow-his-own-sp-500-advice-should-you/?.tsrc=rss",
+      "etiquettes": [],
+      "important": false
+    },
+    {
+      "actions": [
+        "JNJ"
+      ],
+      "heure": "2026-11-12T17:11:55+00:00",
+      "source": "Yahoo Finance",
+      "titre": "Johnson & Johnson (JNJ) Backs New Cancer Device And Leads $100 Million Depression Bet",
+      "lien": "https://finance.yahoo.com/healthcare/articles/johnson-johnson-jnj-backs-cancer-171155980.html?.tsrc=rss",
+      "etiquettes": [],
+      "important": false
+    },
+    {
+      "actions": [
+        "PG"
+      ],
+      "heure": "2026-11-12T17:10:00+00:00",
+      "source": "Yahoo Finance",
+      "titre": "Pampers Partners with Witney Carson to Launch Baby Registry Sweepstakes",
+      "lien": "https://finance.yahoo.com/media-advertising/articles/pampers-partners-witney-carson-launch-171000235.html?.tsrc=rss",
+      "etiquettes": [],
+      "important": false
+    },
+    {
+      "actions": [
+        "JNJ"
+      ],
+      "heure": "2026-11-12T16:56:00+00:00",
+      "source": "Yahoo Finance",
+      "titre": "How Did AbbVie's Immunology Franchise Fare in Q3?",
+      "lien": "https://finance.yahoo.com/healthcare/articles/did-abbvies-immunology-franchise-fare-165600383.html?.tsrc=rss",
+      "etiquettes": [],
+      "important": false
+    },
+    {
+      "actions": [
+        "AXP",
+        "KO"
+      ],
+      "heure": "2026-11-12T16:35:42+00:00",
+      "source": "Yahoo Finance",
+      "titre": "What to Watch When Berkshire Hathaway Files Its 13F on Monday",
+      "lien": "https://www.tikr.com/blog/what-to-watch-when-berkshire-hathaway-files-its-13f-on-monday?ref=yahoofinance&tlnk=yf-261112-gvv6gwvf&.tsrc=rss",
+      "etiquettes": [],
+      "important": false
+    },
+    {
+      "actions": [
+        "JNJ"
+      ],
+      "heure": "2026-11-12T16:13:55+00:00",
+      "source": "Yahoo Finance",
+      "titre": "Blackstone backs Pfizer’s obesity ambitions with $1.5bn fund",
+      "lien": "https://www.pharmaceutical-technology.com/news/blackstone-backs-pfizers-obesity-ambitions-with-1-5bn-fund/?.tsrc=rss",
+      "etiquettes": [
+        "rachat/fusion"
+      ],
+      "important": false
+    },
+    {
+      "actions": [
+        "KO"
+      ],
+      "heure": "2026-11-12T16:00:00+00:00",
+      "source": "Yahoo Finance",
+      "titre": "American Haiku Adds Moran, Dabre To Flex Creative Muscle",
+      "lien": "https://www.mediapost.com/publications/article/419331/american-haiku-adds-moran-dabre-to-flex-creative.html?.tsrc=rss",
+      "etiquettes": [],
+      "important": false
+    },
+    {
+      "actions": [
+        "BAC"
+      ],
+      "heure": "2026-11-12T15:58:19+00:00",
+      "source": "Yahoo Finance",
+      "titre": "BofA sees Metka IPO unlocking value for Metlen Energy & Metals",
+      "lien": "https://finance.yahoo.com/markets/stocks/articles/bofa-sees-metka-ipo-unlocking-155819055.html?.tsrc=rss",
+      "etiquettes": [
+        "analystes"
+      ],
+      "important": false
+    },
+    {
+      "actions": [
+        "BAC"
+      ],
+      "heure": "2026-11-12T15:56:00+00:00",
+      "source": "Yahoo Finance",
+      "titre": "AI Drives Surge in New Businesses. Why the Boom Isn’t Creating Jobs.",
+      "lien": "https://finance.yahoo.com/m/9622f99d-5b39-303a-8a26-1709d17e0018/ai-drives-surge-in-new.html?.tsrc=rss",
+      "etiquettes": [],
+      "important": false
+    },
+    {
+      "actions": [
+        "KO",
+        "PEP"
+      ],
+      "heure": "2026-11-12T15:43:00+00:00",
+      "source": "Yahoo Finance",
+      "titre": "Coca-Cola Stock Hits 52-Week High: Should You Buy Now or Wait?",
+      "lien": "https://finance.yahoo.com/markets/stocks/articles/coca-cola-stock-hits-52-154300742.html?.tsrc=rss",
+      "etiquettes": [],
+      "important": false
+    },
+    {
+      "actions": [
+        "JNJ"
+      ],
+      "heure": "2026-11-12T15:30:03+00:00",
+      "source": "Yahoo Finance",
+      "titre": "Johnson & Johnson (JNJ) Up 10.4% Since Last Earnings Report: Can It Continue?",
+      "lien": "https://finance.yahoo.com/markets/stocks/articles/johnson-johnson-jnj-10-4-153003339.html?.tsrc=rss",
+      "etiquettes": [
+        "résultats"
+      ],
+      "important": false
+    },
+    {
+      "actions": [
+        "BAC"
+      ],
+      "heure": "2026-11-12T15:27:00+00:00",
+      "source": "Yahoo Finance",
+      "titre": "C Trades at a Discount to Industry: Right Time to Buy the Stock?",
+      "lien": "https://finance.yahoo.com/markets/stocks/articles/c-trades-discount-industry-time-152700782.html?.tsrc=rss",
+      "etiquettes": [
+        "résultats"
+      ],
+      "important": false
+    },
+    {
+      "actions": [
+        "BAC"
+      ],
+      "heure": "2026-11-12T15:24:41+00:00",
+      "source": "Yahoo Finance",
+      "titre": "BofA to settle fake-accounts lawsuit",
+      "lien": "https://www.bankingdive.com/news/bofa-bank-of-america-to-settle-fake-accounts-lawsuit-2023/874495/?.tsrc=rss",
+      "etiquettes": [
+        "justice"
+      ],
+      "important": false
+    },
+    {
+      "actions": [
+        "BAC"
+      ],
+      "heure": "2026-11-12T15:24:00+00:00",
+      "source": "Yahoo Finance",
+      "titre": "BAC Reaffirms 16-18% ROTCE Target: Can Profitability Improve Further?",
+      "lien": "https://finance.yahoo.com/markets/stocks/articles/bac-reaffirms-16-18-rotce-152400467.html?.tsrc=rss",
+      "etiquettes": [],
+      "important": false
+    },
+    {
+      "actions": [
+        "JNJ"
+      ],
+      "heure": "2026-11-12T15:07:00+00:00",
+      "source": "Yahoo Finance",
+      "titre": "J&J leads Francis Medical investment to fund prostate cancer device",
+      "lien": "https://www.medtechdive.com/news/jj-leads-francis-medical-investment-to-fund-prostate-cancer-device/874352/?.tsrc=rss",
+      "etiquettes": [],
+      "important": false
+    },
+    {
+      "actions": [
+        "PG"
+      ],
+      "heure": "2026-11-12T15:06:00+00:00",
+      "source": "Yahoo Finance",
+      "titre": "PG vs. CHD: Which Consumer Staples Giant Has the Competitive Edge?",
+      "lien": "https://finance.yahoo.com/markets/stocks/articles/pg-vs-chd-consumer-staples-150600204.html?.tsrc=rss",
+      "etiquettes": [],
+      "important": false
+    },
+    {
+      "actions": [
+        "MCD"
+      ],
+      "heure": "2026-11-12T15:04:00+00:00",
+      "source": "Yahoo Finance",
+      "titre": "Can Dutch Bros' 250-Shop Plan Deliver Growth Despite Cannibalization?",
+      "lien": "https://finance.yahoo.com/markets/stocks/articles/dutch-bros-250-shop-plan-150400734.html?.tsrc=rss",
+      "etiquettes": [],
+      "important": false
+    },
+    {
+      "actions": [
+        "JNJ",
+        "KO"
+      ],
+      "heure": "2026-11-12T14:58:22+00:00",
+      "source": "Yahoo Finance",
+      "titre": "The S&P 500 Lost 5.9% in a Month, Then Won Back More Than Half in 4 Trading Days. How Much Does a 72-Year-Old Widow Need in Dividend Stocks to Collect $5,000 a Month?",
+      "lien": "https://247wallst.com/investing/2026/11/12/the-sp-500-lost-5-9-in-a-month-then-won-back-more-than-half-in-4-trading-days-how-much-does-a-72-year-old-widow-need-in-dividend-stocks-to-collect-5000-a-month/?.tsrc=rss",
+      "etiquettes": [
+        "dividende/rachat d'actions"
+      ],
+      "important": false
+    },
+    {
+      "actions": [
+        "JNJ"
+      ],
+      "heure": "2026-11-12T14:42:00+00:00",
+      "source": "Yahoo Finance",
+      "titre": "Why Pfizer Is Tapping Private Equity to Back Its Once-Monthly Weight-Loss Drug",
+      "lien": "https://finance.yahoo.com/m/bcd6558e-1198-3301-987f-c44af0ff1388/why-pfizer-is-tapping-private.html?.tsrc=rss",
+      "etiquettes": [],
+      "important": false
+    },
+    {
+      "actions": [
+        "MCD"
+      ],
+      "heure": "2026-11-12T14:03:57+00:00",
+      "source": "Yahoo Finance",
+      "titre": "Jensen Huang Just Resigned and Nvidia Has No Permanent CEO. The Last Company That Did That Left Shareholders 17 Points Behind the Market",
+      "lien": "https://247wallst.com/investing/2026/11/12/jensen-huang-just-resigned-and-nvidia-has-no-permanent-ceo-the-last-company-that-did-that-left-shareholders-17-points-behind-the-market/?.tsrc=rss",
+      "etiquettes": [
+        "dirigeants"
+      ],
+      "important": false
+    },
+    {
+      "actions": [
+        "AXP"
+      ],
+      "heure": "2026-11-12T14:00:00+00:00",
+      "source": "Yahoo Finance",
+      "titre": "More Consumers Say They Plan to Shop Small® This Holiday Season Ahead of Small Business Saturday®",
+      "lien": "https://finance.yahoo.com/small-business/articles/more-consumers-plan-shop-small-140000778.html?.tsrc=rss",
+      "etiquettes": [],
+      "important": false
+    },
+    {
+      "actions": [
+        "PEP"
+      ],
+      "heure": "2026-11-12T14:00:00+00:00",
+      "source": "Yahoo Finance",
+      "titre": "BIG3 Names Veteran PepsiCo Sports Executive Adam Harter President of Business Operations",
+      "lien": "https://finance.yahoo.com/media-advertising/articles/big3-names-veteran-pepsico-sports-140000105.html?.tsrc=rss",
+      "etiquettes": [
+        "dirigeants"
+      ],
+      "important": false
+    },
+    {
+      "actions": [
+        "NVDA"
+      ],
+      "heure": "2026-11-12T13:52:41+00:00",
+      "source": "SEC",
+      "titre": "NVIDIA CORP filed a 8-K: director or officer change",
+      "lien": "https://www.sec.gov/Archives/edgar/data/1045810/000104581026000082/0001045810-26-000082-index.htm",
+      "etiquettes": [],
+      "important": true
+    },
+    {
+      "actions": [
+        "MCD"
+      ],
+      "heure": "2026-11-12T13:50:00+00:00",
+      "source": "Yahoo Finance",
+      "titre": "McDonald's Stock Up 17% in a Month: Is the Rally Built to Last?",
+      "lien": "https://finance.yahoo.com/markets/stocks/articles/mcdonalds-stock-17-month-rally-135000222.html?.tsrc=rss",
+      "etiquettes": [],
+      "important": false
+    },
+    {
+      "actions": [
+        "PEP"
+      ],
+      "heure": "2026-11-12T13:09:55+00:00",
+      "source": "Yahoo Finance",
+      "titre": "PepsiCo (PEP) Plans 1,000 North America Job Cuts In Elliott Backed Turnaround",
+      "lien": "https://finance.yahoo.com/markets/stocks/articles/pepsico-pep-plans-1-000-130955876.html?.tsrc=rss",
+      "etiquettes": [],
+      "important": false
+    },
+    {
+      "actions": [
+        "JNJ"
+      ],
+      "heure": "2026-11-12T13:00:10+00:00",
+      "source": "Yahoo Finance",
+      "titre": "Is There A Risk Hiding In Johnson & Johnson Stock's Earnings?",
+      "lien": "https://www.trefis.com/stock/jnj/articles/624612/is-there-a-risk-hiding-in-johnson-johnson-stocks-earnings/2026-11-12?.tsrc=rss",
+      "etiquettes": [
+        "résultats"
+      ],
+      "important": false
+    },
+    {
+      "actions": [
+        "MCD"
+      ],
+      "heure": "2026-11-12T13:00:03+00:00",
+      "source": "Yahoo Finance",
+      "titre": "McDonald's Corporation (MCD) is Attracting Investor Attention: Here is What You Should Know",
+      "lien": "https://finance.yahoo.com/markets/stocks/articles/mcdonalds-corporation-mcd-attracting-investor-130003736.html?.tsrc=rss",
+      "etiquettes": [],
+      "important": false
+    },
+    {
+      "actions": [
+        "BAC"
+      ],
+      "heure": "2026-11-12T13:00:00+00:00",
+      "source": "Yahoo Finance",
+      "titre": "Related Ross Names Bank of America Official Bank of CityPlace",
+      "lien": "https://finance.yahoo.com/small-business/articles/related-ross-names-bank-america-130000167.html?.tsrc=rss",
+      "etiquettes": [],
+      "important": false
+    },
+    {
+      "actions": [
+        "BAC"
+      ],
+      "heure": "2026-11-12T12:56:41+00:00",
+      "source": "Yahoo Finance",
+      "titre": "Could CoreWeave Actually Climb 130%? Or Is Bank of America Totally Wrong?",
+      "lien": "https://www.tikr.com/blog/could-coreweave-actually-climb-130-or-is-bank-of-america-totally-wrong?ref=yahoofinance&tlnk=yf-261112-jv84x4mp&.tsrc=rss",
+      "etiquettes": [],
+      "important": false
+    },
+    {
+      "actions": [
+        "JNJ",
+        "PG"
+      ],
+      "heure": "2026-11-12T12:51:35+00:00",
+      "source": "Yahoo Finance",
+      "titre": "Johnson & Johnson vs. Procter & Gamble: 64 and 70 Straight Years of Raises. Which Dividend King Pays You More Over the Next Decade?",
+      "lien": "https://www.tikr.com/blog/johnson-johnson-vs-procter-gamble-64-and-70-straight-years-of-raises-which-dividend-king-pays-you-more-over-the-next-decade?ref=yahoofinancedividend&tlnk=yf-261112-cxc78g7r&.tsrc=rss",
+      "etiquettes": [
+        "dividende/rachat d'actions"
+      ],
+      "important": false
+    },
+    {
+      "actions": [
+        "PG"
+      ],
+      "heure": "2026-11-12T12:14:15+00:00",
+      "source": "Yahoo Finance",
+      "titre": "Is Procter & Gamble (PG) Worth More Than Its Price Today?",
+      "lien": "https://finance.yahoo.com/markets/stocks/articles/procter-gamble-pg-worth-more-121415536.html?.tsrc=rss",
+      "etiquettes": [],
+      "important": false
+    },
+    {
+      "actions": [
+        "AXP",
+        "KO"
+      ],
+      "heure": "2026-11-12T11:52:00+00:00",
+      "source": "Yahoo Finance",
+      "titre": "Wall Street Just Called the Fed’s October Hold a Mistake. Here’s Warren Buffett’s 9-Word Rule From the Last Time the Fed Doubled Rates, and What It Does for $1 Million in an Index Fund",
+      "lien": "https://247wallst.com/investing/2026/11/12/wall-street-just-called-the-feds-october-hold-a-mistake-heres-warren-buffetts-9-word-rule-from-the-last-time-the-fed-doubled-rates-and-what-it-does-for-1-million-in-an-index-fund/?.tsrc=rss",
+      "etiquettes": [],
+      "important": false
+    },
+    {
+      "actions": [
+        "JNJ"
+      ],
+      "heure": "2026-11-12T11:06:08+00:00",
+      "source": "Yahoo Finance",
+      "titre": "What iShares MSCI USA Momentum Factor ETF (MTUM) Sold: AMD Leads on Tuesday",
+      "lien": "https://finance.yahoo.com/markets/stocks/articles/ishares-msci-usa-momentum-factor-110608943.html?.tsrc=rss",
+      "etiquettes": [],
+      "important": false
+    },
+    {
+      "actions": [
+        "JNJ"
+      ],
+      "heure": "2026-11-12T11:05:54+00:00",
+      "source": "Yahoo Finance",
+      "titre": "State Street Health Care SPDR (XLV) Adds Eli Lilly and Johnson & Johnson on Nov. 10",
+      "lien": "https://finance.yahoo.com/healthcare/articles/state-street-health-care-spdr-110554537.html?.tsrc=rss",
+      "etiquettes": [],
+      "important": false
+    },
+    {
+      "actions": [
+        "JNJ"
+      ],
+      "heure": "2026-11-12T11:05:40+00:00",
+      "source": "Yahoo Finance",
+      "titre": "JPMorgan Global Select Equity (JGLO) Adds Broadcom and AMD on Nov. 10",
+      "lien": "https://finance.yahoo.com/markets/stocks/articles/jpmorgan-global-select-equity-jglo-110540634.html?.tsrc=rss",
+      "etiquettes": [],
+      "important": false
+    },
+    {
+      "actions": [
+        "BAC"
+      ],
+      "heure": "2026-11-12T11:05:36+00:00",
+      "source": "Yahoo Finance",
+      "titre": "Invesco KBW Bank ETF (KBWB) Adds Wells Fargo and JPMorgan on Nov. 10",
+      "lien": "https://finance.yahoo.com/markets/stocks/articles/invesco-kbw-bank-etf-kbwb-110536732.html?.tsrc=rss",
+      "etiquettes": [],
+      "important": false
+    },
+    {
+      "actions": [
+        "MCD"
+      ],
+      "heure": "2026-11-12T11:05:02+00:00",
+      "source": "Yahoo Finance",
+      "titre": "McDonald's vs. Monster Beverage: One Is Growing Nearly 3 Times Faster. Which Is the Better Buy for 2027?",
+      "lien": "https://www.fool.com/coverage/better-buy/2026/11/12/mcdonald-s-vs-monster-beverage-one-is-growing-nearly-3-times-faster-which-is-the-better-buy-for-2027/?.tsrc=rss",
+      "etiquettes": [],
+      "important": false
+    },
+    {
+      "actions": [
+        "PG"
+      ],
+      "heure": "2026-11-12T10:50:00+00:00",
+      "source": "Yahoo Finance",
+      "titre": "The Ultimate Dividend Stock to Buy With $1,000 Right Now",
+      "lien": "https://www.fool.com/investing/2026/11/12/ultimate-dividend-stock-to-buy-1k-procter-pg/?.tsrc=rss",
+      "etiquettes": [
+        "résultats",
+        "dividende/rachat d'actions"
+      ],
+      "important": false
+    },
+    {
+      "actions": [
+        "KO"
+      ],
+      "heure": "2026-11-12T10:27:45+00:00",
+      "source": "Yahoo Finance",
+      "titre": "Coca-Cola or AbbVie: The One Dividend Stock I’d Hold for the Next 20 Years",
+      "lien": "https://www.tikr.com/blog/coca-cola-or-abbvie-the-one-dividend-stock-id-hold-for-the-next-20-years?ref=yahoofinancedividend&tlnk=yf-261112-rq84g39v&.tsrc=rss",
+      "etiquettes": [
+        "dividende/rachat d'actions"
+      ],
+      "important": false
+    },
+    {
+      "actions": [
+        "BAC"
+      ],
+      "heure": "2026-11-12T09:12:35+00:00",
+      "source": "Yahoo Finance",
+      "titre": "3 Cash Flow Stocks Trading Up To 50% Below Fair Value",
+      "lien": "https://finance.yahoo.com/markets/stocks/articles/3-cash-flow-stocks-trading-091235318.html?.tsrc=rss",
+      "etiquettes": [],
+      "important": false
+    },
+    {
+      "actions": [
+        "BAC"
+      ],
+      "heure": "2026-11-12T09:00:00+00:00",
+      "source": "Yahoo Finance",
+      "titre": "Allegiant and Bank of America Extend Co-Branded Credit Card Partnership",
+      "lien": "https://finance.yahoo.com/markets/stocks/articles/allegiant-bank-america-extend-co-090000044.html?.tsrc=rss",
+      "etiquettes": [],
+      "important": false
+    },
+    {
+      "actions": [
+        "AXP"
+      ],
+      "heure": "2026-11-12T07:39:29+00:00",
+      "source": "Yahoo Finance",
+      "titre": "What Are Wall Street Analysts' Target Price for American Express Stock?",
+      "lien": "https://www.barchart.com/story/news/8793973/what-are-wall-street-analysts-target-price-for-american-express-stock?.tsrc=rss",
+      "etiquettes": [],
+      "important": false
+    },
+    {
+      "actions": [
+        "PEP"
+      ],
+      "heure": "2026-11-12T06:18:00+00:00",
+      "source": "Yahoo Finance",
+      "titre": "Aldi vs. Trader Joe’s: Which Is Cheaper? We Compared 18 Staples",
+      "lien": "https://finance.yahoo.com/small-business/articles/aldi-vs-trader-joe-actually-120000624.html?.tsrc=rss",
+      "etiquettes": [],
+      "important": false
+    }
+  ],
+  "congres": [
+    {
+      "elu": "Hon. Lloyd Doggett",
+      "circonscription": "TX37",
+      "depot": "2026-11-11",
+      "pdf": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035826.pdf",
+      "lu": true,
+      "lignes": [
+        {
+          "date": "2026-10-01",
+          "action": "KO",
+          "actif": "Coca-Cola Company",
+          "operation": "achat",
+          "titulaire": "l'élu(e)",
+          "montant": "$1,001 - $15,000",
+          "delai": 41,
+          "retard": false,
+          "suivie": true
+        }
+      ]
+    },
+    {
+      "elu": "Hon. Richard W. Allen",
+      "circonscription": "GA12",
+      "depot": "2026-11-11",
+      "pdf": "https://disclosures-clerk.house.gov/public_disc/ptr-pdfs/2026/20035821.pdf",
+      "lu": true,
+      "lignes": [
+        {
+          "date": "2026-10-09",
+          "action": "SHW",
+          "actif": "Sherwin-Williams Company",
+          "operation": "vente partielle",
+          "titulaire": "conjoint",
+          "montant": "$1,001 - $15,000",
+          "delai": 33,
+          "retard": false,
+          "suivie": false
+        },
+        {
+          "date": "2026-10-02",
+          "action": null,
+          "actif": "US Treasury Note 3.5% DUE 1/31/30 (91282CGJ4)",
+          "operation": "achat",
+          "titulaire": "l'élu(e)",
+          "montant": "$15,001 - $50,000",
+          "delai": 40,
+          "retard": false,
+          "suivie": false
+        },
+        {
+          "date": "2026-10-02",
+          "action": null,
+          "actif": "US Treasury Note 4% DUE 7/31/29 (91282CLC3)",
+          "operation": "achat",
+          "titulaire": "l'élu(e)",
+          "montant": "$15,001 - $50,000",
+          "delai": 40,
+          "retard": false,
+          "suivie": false
+        }
+      ]
+    }
+  ],
+  "titre": "Point du matin — 13/11/2026",
+  "date": "2026-11-13",
+  "genere": "2026-11-13T07:57:51+00:00",
+  "notes": []
+}
