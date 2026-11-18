@@ -4,6 +4,13 @@
     "texte": "PEP a bougé de 3 % ou plus depuis la clôture d'hier — cours 142.02 $",
     "cours": 142.02,
     "bourse_ouverte": false,
+    "heure": "2026-11-18T14:24:59+00:00"
+  },
+  {
+    "action": "PEP",
+    "texte": "PEP a bougé de 3 % ou plus depuis la clôture d'hier — cours 142.02 $",
+    "cours": 142.02,
+    "bourse_ouverte": false,
     "heure": "2026-11-17T21:08:34+00:00"
   },
   {
