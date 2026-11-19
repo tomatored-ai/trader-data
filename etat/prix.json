@@ -1,5 +1,5 @@
 {
-  "as_of": "2026-11-19T21:07:35Z",
+  "as_of": "2026-11-19T22:06:14Z",
   "source": "yahoo",
   "note": "Delayed quotes for alerts and sizing checks. Your broker's price is the one that fills.",
   "prices": {
@@ -9,13 +9,13 @@
     "AMZN": 257.37,
     "GOOGL": 272.66,
     "META": 596.22,
-    "AXP": 311.27,
-    "BAC": 48.56,
-    "KO": 96.1,
+    "AXP": 311.11,
+    "BAC": 48.57,
+    "KO": 96.09,
     "PEP": 139.0,
-    "JNJ": 267.02,
-    "PG": 167.91,
-    "MCD": 272.45
+    "JNJ": 267.14,
+    "PG": 167.85,
+    "MCD": 272.35
   },
   "detail": {
     "AAPL": {
@@ -50,17 +50,17 @@
     },
     "AXP": {
       "prev_close": 315.4,
-      "time": "2026-11-19T20:59:58Z",
+      "time": "2026-11-19T21:01:35Z",
       "source": "yahoo"
     },
     "BAC": {
       "prev_close": 48.91,
-      "time": "2026-11-19T20:59:58Z",
+      "time": "2026-11-19T21:00:03Z",
       "source": "yahoo"
     },
     "KO": {
       "prev_close": 98.09,
-      "time": "2026-11-19T21:00:00Z",
+      "time": "2026-11-19T21:00:02Z",
       "source": "yahoo"
     },
     "PEP": {
@@ -70,17 +70,17 @@
     },
     "JNJ": {
       "prev_close": 272.7,
-      "time": "2026-11-19T20:59:59Z",
+      "time": "2026-11-19T21:00:02Z",
       "source": "yahoo"
     },
     "PG": {
       "prev_close": 170.29,
-      "time": "2026-11-19T20:59:59Z",
+      "time": "2026-11-19T21:02:09Z",
       "source": "yahoo"
     },
     "MCD": {
       "prev_close": 274.03,
-      "time": "2026-11-19T20:59:58Z",
+      "time": "2026-11-19T21:00:02Z",
       "source": "yahoo"
     }
   }
