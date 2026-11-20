@@ -1,5 +1,12 @@
 [
   {
+    "action": "NVDA",
+    "texte": "NVDA a bougé de 5 % ou plus depuis la clôture d'hier — cours 137.70 $",
+    "cours": 137.7,
+    "bourse_ouverte": true,
+    "heure": "2026-11-20T16:14:16+00:00"
+  },
+  {
     "action": "PEP",
     "texte": "PEP a bougé de 3 % ou plus depuis la clôture d'hier — cours 142.02 $",
     "cours": 142.02,
