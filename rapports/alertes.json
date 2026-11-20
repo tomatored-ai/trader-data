@@ -1,5 +1,12 @@
 [
   {
+    "action": "META",
+    "texte": "META a bougé de 5 % ou plus depuis la clôture d'hier — cours 563.75 $",
+    "cours": 563.75,
+    "bourse_ouverte": true,
+    "heure": "2026-11-20T19:27:53+00:00"
+  },
+  {
     "action": "NVDA",
     "texte": "NVDA a bougé de 5 % ou plus depuis la clôture d'hier — cours 137.70 $",
     "cours": 137.7,
