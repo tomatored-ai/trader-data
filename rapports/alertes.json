@@ -1,5 +1,26 @@
 [
   {
+    "action": "NVDA",
+    "texte": "NVDA a bougé de 5 % ou plus depuis la clôture d'hier — cours 160.99 $",
+    "cours": 160.987,
+    "bourse_ouverte": true,
+    "heure": "2026-11-23T14:34:18+00:00"
+  },
+  {
+    "action": "GOOGL",
+    "texte": "GOOGL a bougé de 5 % ou plus depuis la clôture d'hier — cours 280.48 $",
+    "cours": 280.48,
+    "bourse_ouverte": true,
+    "heure": "2026-11-23T14:34:18+00:00"
+  },
+  {
+    "action": "META",
+    "texte": "META a bougé de 5 % ou plus depuis la clôture d'hier — cours 592.47 $",
+    "cours": 592.469,
+    "bourse_ouverte": true,
+    "heure": "2026-11-23T14:34:18+00:00"
+  },
+  {
     "action": "META",
     "texte": "META a bougé de 5 % ou plus depuis la clôture d'hier — cours 563.75 $",
     "cours": 563.75,
